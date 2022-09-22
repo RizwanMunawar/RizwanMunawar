@@ -28,8 +28,6 @@
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
 - https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
-- https://medium.com/augmented-startups/yolov7-training-on-custom-data-b86d23e6623
-- https://medium.com/augmented-startups/train-yolor-on-custom-data-f129391bd3d6
 - https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
 - https://medium.com/augmented-startups/develop-an-analytics-dashboard-using-streamlit-e6282fa5e0f
