@@ -16,8 +16,8 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=800080&text_color=D3D3D3&bg_color=0,000000,1E90FF" alt="Muhammad Rizwan Munawar Github Stats"></div>
 
 
-- My LinkedIn Profile: 
-- My Medium Profile:
+- <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a>
+- <a href= "https://chr043416.medium.com/">Medium Profile</a>
 
 #### My Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
