@@ -13,12 +13,9 @@
 - 💬 Ask me about consultations, technical writing, development in field of computer vision
 - 📫 Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a>
 
-
+ 
 <div align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=800080&text_color=D3D3D3&bg_color=0,000000,1E90FF" alt="Muhammad Rizwan Munawar Github Stats"></div>
-
-
-
 
 
 #### My Research Papers
@@ -30,6 +27,20 @@
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
 - https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
-- https://medium.com/augmented-startups/develop-an-analytics-dashboard-using-streamlit-e6282fa5e0f
-- https://medium.com/augmented-startups/problems-in-the-development-of-computer-vision-products-eb081ec7aa2e
-- https://medium.com/augmented-startups/setup-transfer-learning-toolkit-with-docker-on-ubuntu-a9b0198bae7
+
+#### Intrest Area
+<table>
+  <tr>
+    <td>OBJECT DETECTION</td>
+     <td>OBJECT TRACKING</td>
+     <td>OBJECT SEGMENTATION</td>
+     <td> OBJECT BLURRING</td>
+     </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191761938-042dd02c-f9b4-4295-be11-ea7fb3bde3b4.png" width=640 height=180></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191241661-ed5b87eb-5c8c-49bc-8301-531ee86f3b38.png" width=640 height=180></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/190410343-ada838c6-e505-4248-8a76-fbc5996e091e.png" width=640 height=180></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/186101348-3b06d516-5507-4548-8efa-9b55564a75fe.png" width=640 height=180></td>
+  </tr>
+  </tr>
+ </table>
