@@ -14,7 +14,7 @@
 - 📫 Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a>
 
 
-<div align="center">
+<div align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=800080&text_color=D3D3D3&bg_color=0,000000,1E90FF" alt="Muhammad Rizwan Munawar Github Stats"></div>
 
 
