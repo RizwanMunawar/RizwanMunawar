@@ -27,8 +27,6 @@
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
 - https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
-![deepstream]()
-
 
 #### <center>Intrest Area</center>
 <table>
@@ -37,18 +35,16 @@
      <td>OBJECT TRACKING</td>
      <td>OBJECT SEGMENTATION</td>
      <td> OBJECT BLURRING</td>
-     <td> EMBEDDED VISION (Jetson Nano) </td>
-     <td> EMBEDDED VISION (Deepstream) </td>
-     <td> 
-     </tr>
+     <td> EMBEDDED VISION (Jetson Nano)</td>
+   <td> EMBEDDED VISION (Deepstream)</td>
+  </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191761938-042dd02c-f9b4-4295-be11-ea7fb3bde3b4.png" width=640 height=180></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191241661-ed5b87eb-5c8c-49bc-8301-531ee86f3b38.png" width=640 height=180></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/190410343-ada838c6-e505-4248-8a76-fbc5996e091e.png" width=640 height=180></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/186101348-3b06d516-5507-4548-8efa-9b55564a75fe.png" width=640 height=180></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191930373-4530141b-0853-4077-a8c0-9fda390a5a54.jpg" width=640 height=180></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191930406-2c7b1649-a7ed-40b0-a3a3-ff26cacb6331.png" width=640 height=180></td>
-    <td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191761938-042dd02c-f9b4-4295-be11-ea7fb3bde3b4.png" width=640 height=140></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191241661-ed5b87eb-5c8c-49bc-8301-531ee86f3b38.png" width=640 height=140></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/190410343-ada838c6-e505-4248-8a76-fbc5996e091e.png" width=640 height=140></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/186101348-3b06d516-5507-4548-8efa-9b55564a75fe.png" width=640 height=140></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191930373-4530141b-0853-4077-a8c0-9fda390a5a54.jpg" width=640 height=140></td>
+    <td><img src="https://user-images.githubusercontent.com/62513924/191930406-2c7b1649-a7ed-40b0-a3a3-ff26cacb6331.png" width=640 height=140></td>
   </tr>
   </tr>
  </table>
