@@ -11,16 +11,23 @@
 - 🔭 I’m currently working on YOLOv5 and YOLOv7 for different research and development tasks.
 - 🌱 I’m currently implementing different tasks in embedded vision alongside learning embedded vision to enhance my skills set.
 - 💬 Ask me about consultations, technical writing, development in field of computer vision
-- 📫 Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a>
+- 📫 Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a> or 
+ <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652?s=1031626803146899456">Upwork</a>
 
  
-<div align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=800080&text_color=D3D3D3&bg_color=0,000000,1E90FF" alt="Muhammad Rizwan Munawar Github Stats"></div>
+ <img width="1280" src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" alt="Muhammad Rizwan Munawar Github Stats">
+   
+ 
+
 
 
 #### My Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
 
+ #### My Conference Papers
+- <a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf">Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</a>
+
+ 
 #### My Medium Articles
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
 - https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db
@@ -28,7 +35,9 @@
 - https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
 
-#### <center>Intrest Area</center>
+ 
+ 
+#### Intrest Area
 <table>
   <tr>
     <td>OBJECT DETECTION</td>
