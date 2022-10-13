@@ -6,7 +6,7 @@
 ##### Computer Vision Engineer (Object detection, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Neural Networks, Python3, HTML, CSS, C++, frontend development, flask, streamlit, CSharp)
 
 <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> |
-<a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer Profile</a> | <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a>
+<a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer Profile</a> | <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?hl=en&user=B35Ksc4AAAAJ"> Google Scholar Profile </a>
 
 - 🔭 I’m currently working on YOLOv5 and YOLOv7 for different research and development tasks.
 - 🌱 I’m currently implementing different tasks in embedded vision alongside learning embedded vision to enhance my skills set.
