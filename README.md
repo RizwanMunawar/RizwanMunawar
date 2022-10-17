@@ -15,7 +15,7 @@
  <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652?s=1031626803146899456">Upwork</a>
 
  
- <img width="1280" src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" alt="Muhammad Rizwan Munawar Github Stats">
+ <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" alt="Muhammad Rizwan Munawar Github Stats">
    
  
 
