@@ -38,7 +38,9 @@ https://muhammadrizwanmunawar.com/
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
 
  
- 
+#### My Cameralyze Blogs
+ - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
+ - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
 #### Intrest Area
 <table>
   <tr>
