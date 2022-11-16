@@ -42,25 +42,6 @@ https://muhammadrizwanmunawar.com/
 #### My Cameralyze Blogs
  - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
  - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
-#### Intrest Area
-<!-- <table>
-  <tr>
-    <td>OBJECT DETECTION</td>
-     <td>OBJECT TRACKING</td>
-     <td>OBJECT SEGMENTATION</td>
-     <td> OBJECT BLURRING</td>
-     <td> EMBEDDED VISION (Jetson Nano)</td>
-   <td> EMBEDDED VISION (Deepstream)</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191761938-042dd02c-f9b4-4295-be11-ea7fb3bde3b4.png" width=640 height=100></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191241661-ed5b87eb-5c8c-49bc-8301-531ee86f3b38.png" width=640 height=100></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/190410343-ada838c6-e505-4248-8a76-fbc5996e091e.png" width=640 height=100></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/186101348-3b06d516-5507-4548-8efa-9b55564a75fe.png" width=640 height=100></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191930373-4530141b-0853-4077-a8c0-9fda390a5a54.jpg" width=640 height=100></td>
-    <td><img src="https://user-images.githubusercontent.com/62513924/191930406-2c7b1649-a7ed-40b0-a3a3-ff26cacb6331.png" width=640 height=100></td>
-  </tr>
-  </tr>
- </table>
- -->
-<img src="https://user-images.githubusercontent.com/62513924/202122699-f6df24f7-447b-47cd-a70e-13aa94fee631.png">
+
+ #### Intrest Area
+![Work Expertise Stack](https://user-images.githubusercontent.com/62513924/202123663-5d3866b6-09ab-4cb5-aace-709ec8fdb389.png)
