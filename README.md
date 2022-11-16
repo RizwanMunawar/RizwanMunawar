@@ -43,7 +43,7 @@ https://muhammadrizwanmunawar.com/
  - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
  - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
 #### Intrest Area
-<table>
+<!-- <table>
   <tr>
     <td>OBJECT DETECTION</td>
      <td>OBJECT TRACKING</td>
@@ -62,3 +62,5 @@ https://muhammadrizwanmunawar.com/
   </tr>
   </tr>
  </table>
+ -->
+<img src="https://user-images.githubusercontent.com/62513924/202122699-f6df24f7-447b-47cd-a70e-13aa94fee631.png">
