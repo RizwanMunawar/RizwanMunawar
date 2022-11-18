@@ -31,6 +31,11 @@ https://muhammadrizwanmunawar.com/
 - <a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf">Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</a>
 
  
+#### My Session with Ultralytics(YOLOv5) about my Journey (Become a Computer Vision Enginner)
+ - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer
+ 
+ 
+ 
 #### My Medium Articles
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
 - https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db
