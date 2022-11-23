@@ -29,6 +29,7 @@ https://muhammadrizwanmunawar.com/
 
  #### My Conference Papers
 - <a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf">Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</a>
+- <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a>
 
  
 #### My Session with Ultralytics(YOLOv5) about my Journey (Become a Computer Vision Enginner)
