@@ -16,13 +16,10 @@ https://muhammadrizwanmunawar.com/
 - 📫 Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a> or 
  <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652?s=1031626803146899456">Upwork</a>
 
+ <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" alt="Muhammad Rizwan Munawar Github Stats" height="240">
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&&langs_count=3&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" height="240"/>
  
- <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" alt="Muhammad Rizwan Munawar Github Stats">
-   
- 
-
-
-
 #### My Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
 - <a href="https://ieeexplore.ieee.org/document/9885192">Exudate Regeneration for Automated Exudate Detection in Retinal Fundus Images</a>
