@@ -48,6 +48,7 @@ https://muhammadrizwanmunawar.com/
  - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
  - https://www.cameralyze.co/blog/how-to-blur-detected-objects-using-yolov7
  - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
+ - https://www.cameralyze.co/blog/yolov7-architecture-explanation
 
  #### Intrest Area
 ![Work Expertise Stack](https://user-images.githubusercontent.com/62513924/202123663-5d3866b6-09ab-4cb5-aace-709ec8fdb389.png)
