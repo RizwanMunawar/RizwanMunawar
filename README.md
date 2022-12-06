@@ -20,7 +20,7 @@ https://muhammadrizwanmunawar.com/
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&&langs_count=3&title_color=2192FF&icon_color=38E54D&text_color=000000&border_color=2192FF" height="240"/>
  
- ![]https://komarev.com/ghpvc/?username=RizwanMunawar&style=flat&color=green)
+ ![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=PROFILE-VIEWS&color=brightgreen)
  
 #### My Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
