@@ -23,6 +23,7 @@ https://muhammadrizwanmunawar.com/
 #### My Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
 - <a href="https://ieeexplore.ieee.org/document/9885192">Exudate Regeneration for Automated Exudate Detection in Retinal Fundus Images</a>
+- <a href="https://www.mdpi.com/2304-8158/11/23/3914">Feature Mapping for Rice Leaf Defect Detection Based on a Custom Convolutional Architecture</a>
 
  #### My Conference Papers
 - <a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf">Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</a>
