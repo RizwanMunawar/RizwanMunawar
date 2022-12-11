@@ -51,6 +51,7 @@ https://muhammadrizwanmunawar.com/
  - https://www.cameralyze.co/blog/how-to-blur-detected-objects-using-yolov7
  - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
  - https://www.cameralyze.co/blog/yolov7-architecture-explanation
+ - https://www.cameralyze.co/blog/yolov7-and-yolov5-comparison-on-embedded-devices-and-computer-systems
 
  #### Intrest Area
 ![Work Expertise Stack](https://user-images.githubusercontent.com/62513924/202123663-5d3866b6-09ab-4cb5-aace-709ec8fdb389.png)
