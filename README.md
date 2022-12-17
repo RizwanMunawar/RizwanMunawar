@@ -5,7 +5,7 @@
 #### Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at AugmentedStartups | Techincal Writer (Computer Vision) at Medium
 ##### Computer Vision Engineer (Object detection, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform,  CSharp)
 
-- Have a Solid experience in deployment of Computer Vision Models on Embedded Devices i.e Jetson Nano, Jetson Xavier NX.
+- I have a solid experience in deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX.
 
 https://www.upwork.com/freelancers/~0113b0ca61867c1652
  
