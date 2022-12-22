@@ -5,7 +5,7 @@
 ##### Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at AugmentedStartups | Techincal Writer (Computer Vision) at Medium
 Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX.
  
-<a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer Profile</a> | 
+<a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
  <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar Profile </a>  
 </div>
 
