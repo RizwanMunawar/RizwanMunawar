@@ -39,7 +39,15 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 #### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Enginner)
  - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer
  
- 
+ #### Articles for Cameralyze (No-Code Computer Vision) Platform 
+ - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
+ - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
+ - https://www.cameralyze.co/blog/how-to-blur-detected-objects-using-yolov7
+ - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
+ - https://www.cameralyze.co/blog/yolov7-architecture-explanation
+ - https://www.cameralyze.co/blog/yolov7-and-yolov5-comparison-on-embedded-devices-and-computer-systems
+
+
  
 <div align="center" style="width: 100%; padding: 100px;">
 <img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=FFFFFF&icon_color=38E54D&text_color=FFFFFF&border_color=2192FF&bg_color=1E90FF" alt="Muhammad Rizwan Munawar Github Stats">
@@ -48,11 +56,3 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  
  ![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
  </div>
- 
- #### Articles for Cameralyze (No-Code Computer Vision) Platform 
- - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
- - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
- - https://www.cameralyze.co/blog/how-to-blur-detected-objects-using-yolov7
- - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
- - https://www.cameralyze.co/blog/yolov7-architecture-explanation
- - https://www.cameralyze.co/blog/yolov7-and-yolov5-comparison-on-embedded-devices-and-computer-systems
