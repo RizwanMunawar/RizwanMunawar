@@ -21,6 +21,9 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  #### Intrest Area
 ![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
 
+#### LinkedIn Articles
+- <a href = "https://www.linkedin.com/pulse/how-did-i-spend-2022-computer-vision-field-muhammad-rizwan-munawar/">How did I spent 2022 in Computer Vision Field?</a>
+
  #### Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
 - <a href="https://ieeexplore.ieee.org/document/9885192">Exudate Regeneration for Automated Exudate Detection in Retinal Fundus Images</a>
