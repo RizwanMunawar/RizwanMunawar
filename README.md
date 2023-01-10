@@ -36,6 +36,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a>
 
  #### Medium Trending Articles
+- https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
 - https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
