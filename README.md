@@ -14,7 +14,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 </div>
 
 
-- ⭐ I’m currently working on YOLOv5 and YOLOv7 for different research and development tasks.
+- ⭐ I’m currently working on YOLOv5 and YOLOv8 for different research and development tasks.
 - ⭐ I’m currently implementing different tasks in embedded vision alongside learning embedded vision to enhance my skills set.
 - ⭐ Ask me about consultations, technical writing, development in field of computer vision
 - ⭐ Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a> or 
