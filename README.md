@@ -41,7 +41,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
 - https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
-
+- https://chr043416.medium.com/comparing-yolov5-and-yolov8-which-one-should-you-use-538ca550a25d
  
 #### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Enginner)
  - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer
