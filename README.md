@@ -6,16 +6,28 @@
 Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX.
  
  
- https://www.upwork.com/freelancers/~0113b0ca61867c1652      
+ 😎Check Out My 𝐔𝐩𝐰𝐨𝐫𝐤 Profile 👉
+ "https://www.upwork.com/freelancers/~0113b0ca61867c1652"
  
-<a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
+✅✅✅✅✅✅✅✅✅ 
+
+ For 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 and 𝐯𝐢𝐬𝐢𝐨𝐧 𝐀𝐈 Projects, Please use the mentioned link below to register on 𝐔𝐩𝐰𝐨𝐫𝐤 and reach out to me👇
+ 
+https://www.upwork.com/signup/create-account/client_contact_freelancer?ciphertext=~0113b0ca61867c1652&BYOC
+ 
+
+ ✅✅✅✅✅✅✅✅✅ 
+ 
+
+ <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
  <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar Profile </a>  
 </div>
 
 
-- ⭐ I’m currently working on YOLOv5 and YOLOv8 for different research and development tasks.
-- ⭐ I’m currently implementing different tasks in embedded vision alongside learning embedded vision to enhance my skills set.
-- ⭐ Ask me about consultations, technical writing, development in field of computer vision
+- ⭐ I’m currently working on 𝐘𝐎𝐋𝐎𝐯𝟓, 𝐘𝐎𝐋𝐎𝐯𝟔, 𝐘𝐎𝐋𝐎𝐯𝟕, 𝐘𝐎𝐋𝐎𝐯𝟖 for different research and development tasks.
+- ⭐ I'm currently working on different 𝐈𝐦𝐚𝐠𝐞 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 projects for research and 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 work for my 𝐥𝐨𝐧𝐠-𝐭𝐞𝐫𝐦 𝐔𝐩𝐰𝐨𝐫𝐤 𝐜𝐥𝐢𝐞𝐧𝐭𝐬.
+- ⭐ I’m currently 𝐝𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 different projects of 𝐕𝐢𝐬𝐢𝐨𝐧𝐀𝐈 on 𝐞𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐝𝐞𝐯𝐢𝐜𝐞𝐬 alongside learning embedded vision to 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 my 𝐬𝐤𝐢𝐥𝐥𝐬 𝐬𝐞𝐭.
+- ⭐ Ask me about 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐭𝐢𝐨𝐧𝐬, 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐰𝐫𝐢𝐭𝐢𝐧𝐠, 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 in field of computer vision and 𝐕𝐢𝐬𝐢𝐨𝐧𝐀𝐈
 - ⭐ Reach out to me on <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> or <a href= "https://chr043416.medium.com/">Medium</a> or 
  <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652?s=1031626803146899456">Upwork</a>
 
