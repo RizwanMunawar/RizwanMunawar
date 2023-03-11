@@ -18,6 +18,14 @@ https://www.upwork.com/signup/create-account/client_contact_freelancer?ciphertex
 
  ✅✅✅✅✅✅✅✅✅ 
  
+ 
+🤩 From now onwards, You can sign up for a monthly subscription on my Patreon and receive access to all the codes of my LinkedIn Posts!
+ 
+✅✅✅✅✅✅✅✅✅ 
+ 
+https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
+
+ ✅✅✅✅✅✅✅✅✅ 
 
  <a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
  <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar Profile </a>  
