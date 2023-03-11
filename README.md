@@ -16,12 +16,8 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 https://www.upwork.com/signup/create-account/client_contact_freelancer?ciphertext=~0113b0ca61867c1652&BYOC
  
 
- ✅✅✅✅✅✅✅✅✅ 
- 
  
 🤩 From now onwards, You can sign up for a monthly subscription on my Patreon and receive access to all the codes of my LinkedIn Posts!
- 
-✅✅✅✅✅✅✅✅✅ 
  
 https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
 
