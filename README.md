@@ -9,7 +9,11 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  😎Check Out My 𝐔𝐩𝐰𝐨𝐫𝐤 Profile 👉
  "https://www.upwork.com/freelancers/~0113b0ca61867c1652"
  
-✅✅✅✅✅✅✅✅✅ 
+Explore my **Computer Vision** Articles 👉
+ https://muhammadrizwanmunawar.com/blog
+ 
+
+ ✅✅✅✅✅✅✅✅✅ 
 
  For 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 and 𝐯𝐢𝐬𝐢𝐨𝐧 𝐀𝐈 Projects, Please use the mentioned link below to register on 𝐔𝐩𝐰𝐨𝐫𝐤 and reach out to me👇
  
