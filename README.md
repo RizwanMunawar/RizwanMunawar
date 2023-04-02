@@ -4,7 +4,7 @@
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
  
-##### Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at (AugmentedStartups) | Techincal Writer (Computer Vision) at Medium 
+##### **Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at (Augmented Startups) | Techincal Writer (Computer Vision) at Medium**
 Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in development of end to end computer vision solutions with deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX. 
  
  Don't forget to explore my <b>Computer Vision</b> blogs👉
