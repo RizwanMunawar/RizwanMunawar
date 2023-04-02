@@ -13,7 +13,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  Explore my **Computer Vision, Health and Technology** Articles 👉
  <b>https://muhammadrizwanmunawar.com/blog</b>
  
- 🤩 Check a monthly subscription on Patreon and receive access to my all Computer Vision Projects 👉<b><a href="https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link">Read More</a></b>
+ 🤩 Check a monthly subscription on Patreon and receive access to my all **Computer Vision Projects** 👉<b><a href="https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link">Read More</a></b>
 
 😎 Want a complete end-to-end computer vision solution, Dont worry you are two steps away from me 👇
  
