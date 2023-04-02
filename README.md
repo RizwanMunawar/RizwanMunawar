@@ -19,7 +19,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  
  Register on <b><a href="https://www.upwork.com/signup/create-account/client_contact_freelancer?ciphertext=~0113b0ca61867c1652&BYOC">Upwork</a></b> & Reach me on <b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652">Upwork</a></b>
  
-<b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Profile</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
+<b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Prof</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
  <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar Profile </a></b><br><br>
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 
