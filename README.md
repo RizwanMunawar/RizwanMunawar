@@ -10,7 +10,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  Don't forget to explore my <b>Computer Vision</b> blogs👉
  <b>https://muhammadrizwanmunawarvisionai.blogspot.com/</b>
  
- Explore my **Computer Vision, Health and Technology** Articles 👉
+ 🔥Explore my **Computer Vision, Health and Technology** Articles 👉
  <b>https://muhammadrizwanmunawar.com/blog</b>
  
  🤩 Check a monthly subscription on Patreon and receive access to my all **Computer Vision Projects** 👉<b><a href="https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link">Read More</a></b>
@@ -28,7 +28,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 
 
 <b> **My Current Work**</b>
-- ⭐ I’m currently working on 𝐘𝐎𝐋𝐎𝐯𝟓, 𝐘𝐎𝐋𝐎𝐯𝟔, 𝐘𝐎𝐋𝐎𝐯𝟕, 𝐘𝐎𝐋𝐎𝐯𝟖 for different research and development tasks.
+- 🔥 I’m currently working on 𝐘𝐎𝐋𝐎𝐯𝟓, 𝐘𝐎𝐋𝐎𝐯𝟔, 𝐘𝐎𝐋𝐎𝐯𝟕, 𝐘𝐎𝐋𝐎𝐯𝟖 for different research and development tasks.
 - ⭐ I'm currently working on different 𝐈𝐦𝐚𝐠𝐞 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 projects for research and 𝐕𝐞𝐡𝐢𝐜𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 work for my 𝐥𝐨𝐧𝐠-𝐭𝐞𝐫𝐦 𝐔𝐩𝐰𝐨𝐫𝐤 𝐜𝐥𝐢𝐞𝐧𝐭𝐬.
 - ✅ I’m currently 𝐝𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 different projects of 𝐕𝐢𝐬𝐢𝐨𝐧𝐀𝐈 on 𝐞𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐝𝐞𝐯𝐢𝐜𝐞𝐬 alongside learning embedded vision to 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 my 𝐬𝐤𝐢𝐥𝐥𝐬 𝐬𝐞𝐭.
 - ⭐ Ask me about 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐭𝐢𝐨𝐧𝐬, 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐰𝐫𝐢𝐭𝐢𝐧𝐠, 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 in field of computer vision and 𝐕𝐢𝐬𝐢𝐨𝐧𝐀𝐈
@@ -37,7 +37,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 
  
 #### LinkedIn Articles
-- <a href = "https://www.linkedin.com/pulse/how-did-i-spend-2022-computer-vision-field-muhammad-rizwan-munawar/">How did I spent 2022 in Computer Vision Field?</a>
+- <a href = "https://www.linkedin.com/pulse/how-did-i-spend-2022-computer-vision-field-muhammad-rizwan-munawar/">How did I spent 2022 in Computer Vision Field? 🔥</a>
 
  #### Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
@@ -49,25 +49,25 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a>
 
 #### Blogs (Computer Vision & Vision AI)
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maximizing-efficiency-on-construction.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/instance-segmentation-vs-semantic.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/mastering-image-classification.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-detection-in-agriculture.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/techniques-for-accurate-data-annotation.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-tracking-using-bytetrack.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/pose-estimation-computer-vision.html
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maximizing-efficiency-on-construction.html 🔥
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/instance-segmentation-vs-semantic.html ✅
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/mastering-image-classification.html 🔥
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-detection-in-agriculture.html ✅
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/techniques-for-accurate-data-annotation.html ✅
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-tracking-using-bytetrack.html 🔥
+- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/pose-estimation-computer-vision.html ✅
 
  #### Medium Trending Articles
-- https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262
-- https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c
-- https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db
-- https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1
-- https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29
-- https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c
-- https://chr043416.medium.com/comparing-yolov5-and-yolov8-which-one-should-you-use-538ca550a25d
+- https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262 ✅
+- https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c 🔥
+- https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db ✅
+- https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1 🔥
+- https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29 ✅
+- https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c 🔥
+- https://chr043416.medium.com/comparing-yolov5-and-yolov8-which-one-should-you-use-538ca550a25d ✅
  
 #### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Enginner)
- - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer
+ - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer 🔥
  
  #### Articles for Cameralyze (No-Code Computer Vision) Platform 
  - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
