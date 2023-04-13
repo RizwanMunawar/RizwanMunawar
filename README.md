@@ -6,7 +6,7 @@
 😟👉You have sensitive information and are concerned about its safety, there's no need to worry because Rizblur can assist you. With just a few clicks, you can safeguard your confidential information. Check out <a href="https://muhammadrizwanmunawarvisionai.blogspot.com/p/blur-your-image.html">Rizblur Protect your privacy </a>
  
 ##### **Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at (Augmented Startups) | Techincal Writer (Computer Vision) at Medium**
-Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in development of end to end computer vision solutions with deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX. 
+Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOv8 YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in development of end to end computer vision solutions with deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX. 
  
  Don't forget to explore my <b>Computer Vision</b> blogs👉
  <b>https://muhammadrizwanmunawarvisionai.blogspot.com/</b>
