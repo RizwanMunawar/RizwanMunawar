@@ -50,6 +50,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a>
 
 #### Blogs (Computer Vision & Vision AI)
+- https://www.visobyte.com/2023/05/resnet18-vs-vgg16-and-vgg19-comparison-of-image-classifiers.html
 - https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/top-10-computer-vision-and-ai-projects.html
 - https://www.visobyte.com/2023/05/computer-vision-understand-image-recognition-object-detection-object-segmentation-pose-estimation.html
 - https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maximizing-efficiency-on-construction.html 🔥
