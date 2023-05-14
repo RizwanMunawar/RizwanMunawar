@@ -9,7 +9,7 @@
 Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOv8 YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in development of end to end computer vision solutions with deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX. 
  
  Don't forget to explore my <b>Computer Vision</b> blogs👉
- <b>https://muhammadrizwanmunawarvisionai.blogspot.com/</b>
+ <b>https://www.visobyte.com/</b>
  
  🔥Explore my **Computer Vision, Health and Technology** Articles 👉
  <b>https://muhammadrizwanmunawar.com/blog</b>
