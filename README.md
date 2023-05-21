@@ -1,8 +1,9 @@
 ![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
 
-
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
- <b>https://www.visobyte.com/</b>
+<b>https://www.visobyte.com/</b>
+<br><br>
+<b>Latest Article:</b> https://www.visobyte.com/2023/05/facial-recognition-technology-ethical-considerations-and-privacy-concerns.html
  
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
@@ -49,6 +50,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a>
 
 #### Blogs (Computer Vision & Vision AI)
+- https://www.visobyte.com/2023/05/facial-recognition-technology-ethical-considerations-and-privacy-concerns.html
 - https://www.visobyte.com/2023/05/image-classification-metrics-formulas-and-examples.html
 - https://www.visobyte.com/2023/05/precision-recall-and-f1-score-in-object-detection-how-are-they-calculated.html
 - https://www.visobyte.com/2023/05/synthetic-data-generation-in-computer-vision-advantages-and-challenges.html
