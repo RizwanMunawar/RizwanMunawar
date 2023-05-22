@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/05/facial-recognition-technology-ethical-considerations-and-privacy-concerns.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/05/multi-object-tracking-approaches-and-evaluation-metrics.html
  
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
