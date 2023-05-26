@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/05/3d-computer-vision-techniques-and-applications-in-depth-perception.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/05/computer-vision-use-cases-in-the-medical-field-revolutionizing-healthcare.html
  
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
