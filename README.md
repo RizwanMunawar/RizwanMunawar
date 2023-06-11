@@ -5,6 +5,7 @@
 <br><br>
 <b>Latest Article:</b> https://www.visobyte.com/2023/06/advancement-of-gans-in-the-field-of-computer-vision.html
 
+No more Manual Annotations, Try <A href= "https://drive.google.com/file/d/1fIgZ-oyjrkMKNOFplgfB0Aq-yCtQ-CRY/view?usp=sharing">AutoDistill</a> 
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
