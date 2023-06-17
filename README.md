@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/06/Importance-of-Data-Security-in-Computer-Vision.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/06/Generative-AI-Unleashing-the-Power-of-Intelligent-Creativity.html
 
 No more Manual Annotations, Try <A href= "https://drive.google.com/file/d/1fIgZ-oyjrkMKNOFplgfB0Aq-yCtQ-CRY/view?usp=sharing">AutoDistill</a> 
 <div align="center">
