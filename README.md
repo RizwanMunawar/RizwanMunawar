@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/06/Generative-AI-Unleashing-the-Power-of-Intelligent-Creativity.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/06/Image-to-Image-Translation-Techniques-and-Applications-in-Computer-Vision.html
 
 <b>Latest Medium Article: </b> <a href="https://medium.com/p/cb9d9e056842">Is YOLO knowledge enough to survive in the computer vision market?</a>
 
