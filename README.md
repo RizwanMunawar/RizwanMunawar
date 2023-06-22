@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/06/Image-to-Image-Translation-Techniques-and-Applications-in-Computer-Vision.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/06/Trend-of-Edge-Devices-in-Computer-Vision.html]
 
 <b>Latest Medium Article: </b> <a href="https://medium.com/p/cb9d9e056842">Is YOLO knowledge enough to survive in the computer vision market?</a>
 
@@ -14,7 +14,7 @@ No more Manual Annotations, Try <A href= "https://drive.google.com/file/d/1fIgZ-
 😟👉You have sensitive information and are concerned about its safety, there's no need to worry because Rizblur can assist you. With just a few clicks, you can safeguard your confidential information. Check out <a href="https://muhammadrizwanmunawarvisionai.blogspot.com/p/blur-your-image.html">Visoblur Protect your privacy </a>
  
 ##### **Top Rated Freelancer (Computer Vision) at Upwork | Computer Vision Engineer at (Augmented Startups) | Techincal Writer (Computer Vision) at Medium**
-Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOv8 YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in development of end to end computer vision solutions with deployment of computer vision models on embedded devices i.e Jetson Nano, Jetson Xavier NX. 
+Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation, Image classification, YOLOv4, YOLOv5, YOLOv7, YOLOv8 YOLOR, YOLOX, Resnet18, Vgg16, Vgg19, AlexNet, Convolutional Neural Networks, Python3, HTML, CSS, C++, Embedded Vision, Jetson Nano, Jetson Xavier NX, TensorRT, Deepstream, frontend development, flask, streamlit, Supervisely Platform, CSharp). I have a solid experience in the development of end-to-end computer vision solutions with the deployment of computer vision models on embedded devices i.e. Jetson Nano, and Jetson Xavier NX. 
  
  
  🤩 Check a monthly subscription on Patreon and receive access to my all **Computer Vision Projects** 👉<b><a href="https://patreon.com/MuhammadRizwanMunawarWork?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link">Read More</a></b>
