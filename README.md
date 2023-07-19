@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/07/Google-Cloud-vs-Microsoft-Azure-Choosing-the-Ideal-Platform-for-Computer-Vision-Deployment.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/07/Different-Optimizers-in-Deep-Learning.html
 <br>
 
 <b>Latest Medium Article: </b> <a href="https://medium.com/p/cb9d9e056842">Is YOLO knowledge enough to survive in the computer vision market?</a>
