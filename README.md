@@ -42,7 +42,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 
  
 #### LinkedIn Articles
-- <a href = "https://www.linkedin.com/pulse/how-did-i-spend-2022-computer-vision-field-muhammad-rizwan-munawar/">How did I spent 2022 in Computer Vision Field? 🔥</a>
+- <a href = "https://www.linkedin.com/pulse/how-did-i-spend-2022-computer-vision-field-muhammad-rizwan-munawar/">How did I spend 2022 in Computer Vision Field? 🔥</a>
 
  #### Research Papers
 - <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a>
@@ -86,7 +86,7 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c 🔥
 - https://chr043416.medium.com/comparing-yolov5-and-yolov8-which-one-should-you-use-538ca550a25d ✅
  
-#### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Enginner)
+#### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Engineer)
  - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer 🔥
  
  #### Articles for Cameralyze (No-Code Computer Vision) Platform 
@@ -96,14 +96,6 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
  - https://www.cameralyze.co/blog/yolov7-architecture-explanation
  - https://www.cameralyze.co/blog/yolov7-and-yolov5-comparison-on-embedded-devices-and-computer-systems
-
-
- 
-<b>**Git Stats**</b>
-<div align="center" style="width: 100%; padding: 100px;">
-<img src = "https://github-readme-stats.vercel.app/api?username=RizwanMunawar&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=FFFFFF&icon_color=38E54D&text_color=FFFFFF&border_color=2192FF&bg_color=1E90FF" alt="Muhammad Rizwan Munawar Github Stats">
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizwanMunawar&langs_count=4&include_all_commits=true&count_private=true&show_icons=true&line_height=35&&langs_count=3&title_color=FFFFFF&icon_color=38E54D&text_color=FFFFFF&border_color=2192FF&bg_color=1E90FF" height="255"/>
  
  ![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
  </div>
