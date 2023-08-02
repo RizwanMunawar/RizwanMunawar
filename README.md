@@ -3,7 +3,7 @@
  🔥Don't forget to explore my <b>Computer Vision</b> blogs👉
 <b>https://www.visobyte.com/</b>
 <br><br>
-<b>Latest Article:</b> https://www.visobyte.com/2023/07/Top-5-Use-Cases-of-Computer-Vision.html
+<b>Latest Article:</b> https://www.visobyte.com/2023/08/The-Prevalence-of-Edge-Devices-in-Computer-Vision-Solutions.html
 <br>
 
 <b>Latest Medium Article: </b> <a href="https://medium.com/p/cb9d9e056842">Is YOLO knowledge enough to survive in the computer vision market?</a>
