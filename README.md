@@ -57,34 +57,12 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
 - https://www.visobyte.com/2023/05/facial-recognition-technology-ethical-considerations-and-privacy-concerns.html
 - https://www.visobyte.com/2023/05/image-classification-metrics-formulas-and-examples.html
 - https://www.visobyte.com/2023/05/3d-computer-vision-techniques-and-applications-in-depth-perception.html
-- https://www.visobyte.com/2023/05/multi-object-tracking-approaches-and-evaluation-metrics.html
-- https://www.visobyte.com/2023/05/precision-recall-and-f1-score-in-object-detection-how-are-they-calculated.html
-- https://www.visobyte.com/2023/05/synthetic-data-generation-in-computer-vision-advantages-and-challenges.html
-- https://www.visobyte.com/2023/05/hybrid-approaches-for-object-detection-and-segmentation-in-video-streams.html
-- https://www.visobyte.com/2023/05/yolo-nas-vs-yolov8-comprehensive-and-visual-analysis-of-latest-object-detection-models.html
-- https://www.visobyte.com/2023/05/resnet18-vs-vgg16-and-vgg19-comparison-of-image-classifiers.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/top-10-computer-vision-and-ai-projects.html
-- https://www.visobyte.com/2023/05/computer-vision-understand-image-recognition-object-detection-object-segmentation-pose-estimation.html
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maximizing-efficiency-on-construction.html 🔥
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/instance-segmentation-vs-semantic.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/mastering-image-classification.html 🔥
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-detection-in-agriculture.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/techniques-for-accurate-data-annotation.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/object-tracking-using-bytetrack.html 🔥
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/03/pose-estimation-computer-vision.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/fine-tuning-yolov5-hyperparameters-for-object-detection-a-comprehensive-guide-with-code-examples.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/yolox-vs-yolov7-a-comparison-of-object-detection-models.html ✅
-- https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maskrcnn-vs-yolov7-a-comparison-of-object-segmentation-algorithms.html ✅
- 
 
  #### Medium Trending Articles
 - https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262 ✅
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c 🔥
-- https://chr043416.medium.com/jetson-nano-is-rapidly-involving-in-computer-vision-solutions-5f588cb7c0db ✅
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1 🔥
-- https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29 ✅
-- https://medium.com/augmented-startups/how-can-computer-vision-products-help-in-warehouses-aa1dd95ec79c 🔥
-- https://chr043416.medium.com/comparing-yolov5-and-yolov8-which-one-should-you-use-538ca550a25d ✅
+- 
  
 #### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Engineer)
  - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer 🔥
@@ -93,9 +71,6 @@ Computer Vision Engineer (Object detection, Object Tracking, Object Segmentation
  - https://www.cameralyze.co/blog/how-to-do-pose-estimation-using-yolov7
  - https://www.cameralyze.co/blog/how-to-train-yolov7-on-personal-protective-equipment-data
  - https://www.cameralyze.co/blog/how-to-blur-detected-objects-using-yolov7
- - https://www.cameralyze.co/blog/forest-fire-detection-and-segmentation-using-yolov7
- - https://www.cameralyze.co/blog/yolov7-architecture-explanation
- - https://www.cameralyze.co/blog/yolov7-and-yolov5-comparison-on-embedded-devices-and-computer-systems
- 
+
  ![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
  </div>
