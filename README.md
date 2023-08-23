@@ -10,7 +10,7 @@
 
 😟👉You have sensitive information and are concerned about its safety, there's no need to worry because Rizblur can assist you. With just a few clicks, you can safeguard your confidential information. Check out <a href="https://muhammadrizwanmunawarvisionai.blogspot.com/p/blur-your-image.html">Visoblur Protect your privacy </a>
  
-##### **Passionate Computer Vision Engineer | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Top Rated Plus Upwork Freelancer 💪
+### Passionate Computer Vision Engineer | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Top Rated Plus Upwork Freelancer 💪
 
 😎 Want a complete end-to-end computer vision solution, Dont worry you are two steps away from me 👇
 
