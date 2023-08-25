@@ -13,7 +13,7 @@
 <table>
     <tr>
         <th>Resource Type</th>
-        <th>Title</th>
+        <th>Title/Information</th>
         <th>Link</th>
     </tr>
     <tr>
