@@ -8,16 +8,14 @@
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-😟👉You have sensitive information and are concerned about its safety, there's no need to worry because Rizblur can assist you. With just a few clicks, you can safeguard your confidential information. Check out <a href="https://muhammadrizwanmunawarvisionai.blogspot.com/p/blur-your-image.html">Visoblur Protect your privacy </a>
+😟👉You have sensitive information and are concerned about its safety, there's no need to worry because Visoblur can assist you. With just a few clicks, you can safeguard your confidential information. Check out <a href="https://muhammadrizwanmunawarvisionai.blogspot.com/p/blur-your-image.html">Visoblur Protect your privacy </a>
  
 ### Passionate Computer Vision Engineer | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Top Rated Plus Upwork Freelancer 💪
 
-😎 Want a complete end-to-end computer vision solution, Dont worry you are two steps away from me 👇
-
-Register on <b><a href="https://www.upwork.com/signup/create-account/client_contact_freelancer?ciphertext=~0113b0ca61867c1652&BYOC">Upwork</a></b> & Reach me on <b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652">Upwork</a></b>
+😎 Want a complete end-to-end computer vision solution, Reach me on <b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652">Upwork</a></b>
  
-<b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652"> Upwork Profile </a> | <a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn Profile</a> | <a href= "https://chr043416.medium.com/">Medium Profile</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow Prof</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Dev Profile</a> | 
- <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar Profile </a></b><br><br>
+<a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | 
+ <a href="https://sciprofiles.com/profile/muhammadrizwanmunawar"> MDPI (SciProfile) </a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br>
 </div>  
 
 #### LinkedIn Articles
@@ -40,7 +38,6 @@ Register on <b><a href="https://www.upwork.com/signup/create-account/client_cont
 - https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262 ✅
 - https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c 🔥
 - https://medium.com/augmented-startups/yolor-or-yolov5-which-one-is-better-2f844d35e1a1 🔥
-- 
  
 #### Session with Ultralytics(YOLOv5) about Computer Vision Journey (Become a Computer Vision Engineer)
  - https://ultralytics.com/article/Becoming-a-Computer-Vision-Engineer 🔥
