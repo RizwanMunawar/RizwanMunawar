@@ -35,7 +35,6 @@ Register on <b><a href="https://www.upwork.com/signup/create-account/client_cont
 #### Blogs (Computer Vision & Vision AI)
 - https://www.visobyte.com/2023/05/facial-recognition-technology-ethical-considerations-and-privacy-concerns.html
 - https://www.visobyte.com/2023/05/image-classification-metrics-formulas-and-examples.html
-- https://www.visobyte.com/2023/05/3d-computer-vision-techniques-and-applications-in-depth-perception.html
 
  #### Medium Trending Articles
 - https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262 ✅
