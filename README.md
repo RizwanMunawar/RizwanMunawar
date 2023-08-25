@@ -8,7 +8,7 @@
 <b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://www.visobyte.com/">VisoByte Articles</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
 </div>  
 
-<h3>Computer Vision Resources | How do I appear to the world??</h3>
+<h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 
 <table>
     <tr>
