@@ -3,6 +3,8 @@
  
 ### Passionate Computer Vision Engineer | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Top Rated Plus Upwork Freelancer 💪
 
+#### Book a Session: https://topmate.io/muhammadrizwanmunawar 🚀 
+
 😎 Want a complete end-to-end computer vision solution, Reach me on <b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652">Upwork</a></b>
  
 <b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://www.visobyte.com/">VisoByte Articles</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
