@@ -25,28 +25,20 @@
     </tr>
     <tr>
         <td><b>Research Papers</b></td>
-        <td>Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</td>
-        <td>https://www.mdpi.com/1424-8220/22/18/6927</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Exudate Regeneration for Automated Exudate Detection in Retinal Fundus Images</td>
-        <td>https://ieeexplore.ieee.org/document/9885192</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Feature Mapping for Rice Leaf Defect Detection Based on a Custom Convolutional Architecture</td>
-        <td>https://www.mdpi.com/2304-8158/11/23/3914</td>
+      <td>Worldwide Collaboration</td>
+        <td>
+         <a href="https://www.mdpi.com/1424-8220/22/18/6927">Domain Feature Mapping with YOLOv7 for Automated Edge-Based Pallet Racking Inspections</a><br/>
+         <a href="https://ieeexplore.ieee.org/document/9885192">Exudate Regeneration for Automated Exudate Detection in Retinal Fundus Images</a><br/>
+         <a href="https://www.mdpi.com/2304-8158/11/23/3914">Feature Mapping for Rice Leaf Defect Detection Based on a Custom Convolutional Architecture</a>
+        </td>
     </tr>
     <tr>
         <td><b>Conference Papers</b></td>
-        <td>Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</td>
-        <td>https://aircconline.com/csit/papers/vol12/csit121602.pdf</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</td>
-        <td>https://ieeexplore.ieee.org/document/9922931</td>
+        <td>Professional Collaboration</td>
+        <td>
+         <a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf">Yolov5, Yolo-x, Yolo-r, Yolov7 Performance Comparison: A Survey</a><br/>
+         <a href="https://ieeexplore.ieee.org/document/9922931">Explainable AI in Drug Sensitivity Prediction on Cancer Cell Lines</a><br/>
+        </td>
     </tr>
     <tr>
         <td><b>Medium Trending Articles</b></td>
@@ -80,7 +72,7 @@
 </body>
 </html>
 
-<h3> Viewers Showing My Worth Directly 💪</h3> 
+<h3> Viewers Showing My Worth Directly 💪</h3>   
 
- ![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
  </div>
