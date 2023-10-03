@@ -1,13 +1,12 @@
 ![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
 
  
-### Passionate Computer Vision Engineer | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Top Rated Plus Upwork Freelancer 💪
+### Computer Vision Engineer @Ultralytics | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Technical Writer VisionAI @Medium📝
 
 #### Book a Session: https://topmate.io/muhammadrizwanmunawar 🚀 
 
-😎 Want a complete end-to-end computer vision solution, Reach me on <b><a href="https://www.upwork.com/freelancers/~0113b0ca61867c1652">Upwork</a></b>
  
-<b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://www.visobyte.com/">VisoByte Articles</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
+<b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
 </div>  
 
 <h3>Computer Vision Resources | How do I appear to the world?💡</h3>
