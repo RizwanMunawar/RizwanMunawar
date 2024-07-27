@@ -8,7 +8,7 @@
 
 | Stats | Activity Graph | Trophies |
 |---|---|---|
-| ![Muhammad Rizwan Munawar GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true) | [![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)](https://github.com/ashutosh00710/github-readme-activity-graph) | [![Muhammad Rizwan Munawar trophy](https://github-profile-trophy.vercel.app/?username=RizwanMunawar)](https://github.com/ryo-ma/github-profile-trophy) |
+| ![Muhammad Rizwan Munawar GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true) | [![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)] | [![Muhammad Rizwan Munawar trophy](https://github-profile-trophy.vercel.app/?username=RizwanMunawar)] |
 
 <h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 <table>
