@@ -6,9 +6,7 @@
 <b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
 </div>  
 
-| Stats | Activity Graph | Trophies |
-|---|---|---|
-| ![Muhammad Rizwan Munawar GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true) | [![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)] | [![Muhammad Rizwan Munawar trophy](https://github-profile-trophy.vercel.app/?username=RizwanMunawar)] |
+![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)
 
 <h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 <table>
