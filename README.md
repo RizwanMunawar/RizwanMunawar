@@ -1,12 +1,16 @@
 ![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
 
  
-### Computer Vision Engineer @Ultralytics | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Technical Writer VisionAI @Medium📝
+#### Computer Vision Engineer @Ultralytics | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Technical Writer VisionAI @Medium📝
  
 <b><a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br></b>
 </div>  
-<h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 
+| Stats | Activity Graph | Trophies |
+|---|---|---|
+| ![Muhammad Rizwan Munawar GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true) | [![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)](https://github.com/ashutosh00710/github-readme-activity-graph) | [![Muhammad Rizwan Munawar trophy](https://github-profile-trophy.vercel.app/?username=RizwanMunawar)](https://github.com/ryo-ma/github-profile-trophy) |
+
+<h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 <table>
     <tr>
         <th>Resource Type</th>
