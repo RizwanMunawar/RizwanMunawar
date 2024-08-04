@@ -83,12 +83,12 @@
   <tr style="color:white; background-image: url('https://github.com/user-attachments/assets/26fdc0a0-d06b-4ece-bde9-22fcc2ec0e6d'); background-size: cover; background-position: center;">
     <td>
       <a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
+        <img src="https://github.com/user-attachments/assets/36e180b9-6106-4118-8887-62f2f6f2c3ea" alt="LinkedIn" width="50" height="50">
       </a>
     </td>
     <td>
       <a href="https://medium.com/@muhammadrizwanmunawar">
-        <img src="https://github.com/user-attachments/assets/bca5a4fe-5c87-4418-8439-0bc9fe8b52d1" alt="Medium" width="50" height="50">
+        <img src="https://github.com/user-attachments/assets/916deefb-35ec-422a-8348-408f7b20a252" alt="Medium" width="50" height="50">
       </a>
     </td>
     <td>
@@ -98,17 +98,17 @@
     </td>
     <td>
       <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">
-        <img src="https://github.com/user-attachments/assets/935d601e-36a3-4d2c-9c3d-5d160e396abb" alt="Nvidia Developer" width="30" height="30">
+        <img src="https://github.com/user-attachments/assets/428b6a9d-b87b-4fff-97f6-08fd78088066" alt="Nvidia Developer" width="30" height="30">
       </a>
     </td>
     <td>
       <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">
-        <img src="https://github.com/user-attachments/assets/d6bc4ed3-4ff9-498e-8861-926959c88697" alt="Google Scholar" width="30" height="30">
+        <img src="https://github.com/user-attachments/assets/2365ef60-1ea4-40ac-aa37-67a3483d4955" alt="Google Scholar" width="30" height="30">
       </a>
     </td>
     <td>
       <a href="https://topmate.io/muhammadrizwanmunawar">
-        <img src="https://github.com/user-attachments/assets/7cb6feb2-c028-4fed-b309-803e3154e3f5" alt="Topmate" width="50" height="30">
+        <img src="https://github.com/user-attachments/assets/56df3b44-5afa-4d65-8000-06f9a4766d28" alt="Topmate" width="50" height="30">
       </a>
     </td>
     <td>
@@ -118,12 +118,12 @@
     </td>
     <td>
       <a href="https://community.ultralytics.com/u/muhammadrizwanm">
-        <img src="https://github.com/user-attachments/assets/efcba18e-5ba2-454d-939a-07f53ec00d8a" alt="Ultralytics Discourse" width="30" height="30">
+        <img src="https://github.com/user-attachments/assets/219063bb-f41e-459f-937a-6e4f776d23e6" alt="Ultralytics Discourse" width="30" height="30">
       </a>
     </td>
     <td colspan="8">
       <a href="https://www.ultralytics.com/blog">
-        <img src="https://github.com/user-attachments/assets/efcba18e-5ba2-454d-939a-07f53ec00d8a" alt="Ultralytics Blogs" width="30" height="30">
+        <img src="https://github.com/user-attachments/assets/219063bb-f41e-459f-937a-6e4f776d23e6" alt="Ultralytics Blogs" width="30" height="30">
       </a>
     </td>
     <td colspan="8">
