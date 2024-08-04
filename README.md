@@ -1,10 +1,35 @@
-#### Computer Vision Engineer @Ultralytics | Solving Real-World Challenges🔎| Python | Published Research | Open Source Contributor | GitHub 🌟 | Daily Computer Vision LinkedIn Content 🚀 | Technical Writer VisionAI @Medium📝
- 
-<a href = "https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> | <a href= "https://medium.com/@muhammadrizwanmunawar">Medium</a> | <a href = "https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> | <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/"> Nvidia Developer</a> | <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"> Google Scholar</a></b><br><br>
-</div>  
+### Computer vision engineer @ultralytics | Solving real-world challenges🔎| Python | Published research | Open source contributor | GitHub 🌟 | Daily computer vision LinkedIn content 🚀 | Technical writer VisionAI @Medium📝
 
-![Muhammad Rizwan Munawar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&color=111F68&line=111F68)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true&theme=github-compact&bg_color=FFFFFF" alt="Rizwan's GitHub stats"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanMunawar&layout=compact&bg_color=FFFFFF&theme=github-compact" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=FFFFFF&point=FF64DA&line=111F68&title_color=1E90FF&color=000000" alt="Rizwan's GitHub Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+<br>
 
+<table>
+  <tr style="color:white; background-image: url('https://github.com/user-attachments/assets/26fdc0a0-d06b-4ece-bde9-22fcc2ec0e6d'); background-size: cover; background-position: center;">
+    <td><a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a></td>
+    <td><a href="https://medium.com/@muhammadrizwanmunawar">Medium</a></td>
+    <td><a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a></td>
+    <td><a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">Nvidia Developer</a></td>
+    <td><a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">Google Scholar</a></td>
+    <td><a href="https://topmate.io/muhammadrizwanmunawar">Topmate</a></td>
+    <td><a href="https://x.com/muhammdrizwanmr">X</a></td>
+    <td><a href="https://community.ultralytics.com/u/muhammadrizwanm">Ultralytics Discourse</a></td>
+    <td colspan="8"><a href="https://www.ultralytics.com/blog">Ultralytics Blogs</a></td>
+    <td colspan="8"><a href="https://www.reddit.com/r/Ultralytics/">Ultralytics Reddit</a></td>
+  </tr>
+</table>
+
+<br>
 <h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 <table>
     <tr>
@@ -66,7 +91,7 @@
 </body>
 </html>
 
-<h3> Viewers Showing My Worth Directly 💪</h3>   
+![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)<h5> Viewers Showing My Worth Directly 💪</h5>   
 
-![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
+
  </div>
