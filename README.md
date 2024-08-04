@@ -12,24 +12,9 @@
     </td>
   </tr>
 </table>
-<br>
 
-<table>
-  <tr style="color:white; background-image: url('https://github.com/user-attachments/assets/26fdc0a0-d06b-4ece-bde9-22fcc2ec0e6d'); background-size: cover; background-position: center;">
-    <td><a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a></td>
-    <td><a href="https://medium.com/@muhammadrizwanmunawar">Medium</a></td>
-    <td><a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a></td>
-    <td><a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">Nvidia Developer</a></td>
-    <td><a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">Google Scholar</a></td>
-    <td><a href="https://topmate.io/muhammadrizwanmunawar">Topmate</a></td>
-    <td><a href="https://x.com/muhammdrizwanmr">X</a></td>
-    <td><a href="https://community.ultralytics.com/u/muhammadrizwanm">Ultralytics Discourse</a></td>
-    <td colspan="8"><a href="https://www.ultralytics.com/blog">Ultralytics Blogs</a></td>
-    <td colspan="8"><a href="https://www.reddit.com/r/Ultralytics/">Ultralytics Reddit</a></td>
-  </tr>
-</table>
+![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)
 
-<br>
 <h3>Computer Vision Resources | How do I appear to the world?💡</h3>
 <table>
     <tr>
@@ -91,7 +76,61 @@
 </body>
 </html>
 
-![](https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen)<h5> Viewers Showing My Worth Directly 💪</h5>   
+<h5> Let's connect🚀💪</h5>   
 
 
+<table>
+  <tr style="color:white; background-image: url('https://github.com/user-attachments/assets/26fdc0a0-d06b-4ece-bde9-22fcc2ec0e6d'); background-size: cover; background-position: center;">
+    <td>
+      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@muhammadrizwanmunawar">
+        <img src="https://github.com/user-attachments/assets/bca5a4fe-5c87-4418-8439-0bc9fe8b52d1" alt="Medium" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverflow" width="30" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">
+        <img src="https://github.com/user-attachments/assets/935d601e-36a3-4d2c-9c3d-5d160e396abb" alt="Nvidia Developer" width="30" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">
+        <img src="https://github.com/user-attachments/assets/d6bc4ed3-4ff9-498e-8861-926959c88697" alt="Google Scholar" width="30" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://topmate.io/muhammadrizwanmunawar">
+        <img src="https://github.com/user-attachments/assets/7cb6feb2-c028-4fed-b309-803e3154e3f5" alt="Topmate" width="50" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/muhammdrizwanmr">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" alt="X" width="30" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://community.ultralytics.com/u/muhammadrizwanm">
+        <img src="https://github.com/user-attachments/assets/efcba18e-5ba2-454d-939a-07f53ec00d8a" alt="Ultralytics Discourse" width="30" height="30">
+      </a>
+    </td>
+    <td colspan="8">
+      <a href="https://www.ultralytics.com/blog">
+        <img src="https://github.com/user-attachments/assets/efcba18e-5ba2-454d-939a-07f53ec00d8a" alt="Ultralytics Blogs" width="30" height="30">
+      </a>
+    </td>
+    <td colspan="8">
+      <a href="https://www.reddit.com/user/muhammadrizwanmr/">
+        <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="Ultralytics Reddit" width="30" height="30">
+      </a>
+    </td>
+  </tr>
+</table>
  </div>
