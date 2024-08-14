@@ -78,59 +78,13 @@
 
 <h3> Let's connect🚀💪</h3>   
 
-
-<table>
-  <tr style="color:white; background-image: url('https://github.com/user-attachments/assets/26fdc0a0-d06b-4ece-bde9-22fcc2ec0e6d'); background-size: cover; background-position: center;">
-    <td>
-      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">
-        <img src="https://github.com/user-attachments/assets/36e180b9-6106-4118-8887-62f2f6f2c3ea" alt="LinkedIn" width="50" height="50">
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@muhammadrizwanmunawar">
-        <img src="https://github.com/user-attachments/assets/916deefb-35ec-422a-8348-408f7b20a252" alt="Medium" width="50" height="50">
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="StackOverflow" width="30" height="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">
-        <img src="https://github.com/user-attachments/assets/428b6a9d-b87b-4fff-97f6-08fd78088066" alt="Nvidia Developer" width="30" height="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">
-        <img src="https://github.com/user-attachments/assets/2365ef60-1ea4-40ac-aa37-67a3483d4955" alt="Google Scholar" width="30" height="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://topmate.io/muhammadrizwanmunawar">
-        <img src="https://github.com/user-attachments/assets/56df3b44-5afa-4d65-8000-06f9a4766d28" alt="Topmate" width="50" height="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://x.com/muhammdrizwanmr">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" alt="X" width="30" height="30">
-      </a>
-    </td>
-    <td>
-      <a href="https://community.ultralytics.com/u/muhammadrizwanm">
-        <img src="https://github.com/user-attachments/assets/219063bb-f41e-459f-937a-6e4f776d23e6" alt="Ultralytics Discourse" width="30" height="30">
-      </a>
-    </td>
-    <td colspan="8">
-      <a href="https://www.ultralytics.com/blog">
-        <img src="https://github.com/user-attachments/assets/219063bb-f41e-459f-937a-6e4f776d23e6" alt="Ultralytics Blogs" width="30" height="30">
-      </a>
-    </td>
-    <td colspan="8">
-      <a href="https://www.reddit.com/user/muhammadrizwanmr/">
-        <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="Ultralytics Reddit" width="30" height="30">
-      </a>
-    </td>
-  </tr>
-</table>
- </div>
+<a href="https://www.linkedin.com/in/muhammadrizwanmunawar/">LinkedIn</a> ||
+<a href="https://medium.com/@muhammadrizwanmunawar">Medium</a> ||
+<a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar">StackOverflow</a> ||
+<a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar/">Nvidia Developer</a> ||
+<a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">Google Scholar</a>  ||
+<a href="https://topmate.io/muhammadrizwanmunawar">Topmate</a> ||
+<a href="https://x.com/muhammdrizwanmr">X</a> ||
+<a href="https://community.ultralytics.com/u/muhammadrizwanm">Ultralytics Discourse</a> ||
+<a href="https://www.ultralytics.com/blog">Ultralytics Blogs</a> ||
+<a href="https://www.reddit.com/user/muhammadrizwanmr/">Reddit</a>
