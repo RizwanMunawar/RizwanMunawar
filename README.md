@@ -1,4 +1,4 @@
-### Computer vision engineer @ultralytics | Solving real-world challenges🔎| Python | Published research | Open source contributor | GitHub 🌟 | Daily computer vision LinkedIn content 🚀 | Technical writer VisionAI @Medium📝
+### Solving real-world problems using computer vision | Influencer | Open source contributor | Technical writer & community leader VisionAI | Daily LinkedIn content | Computer vision engineer | LLMs | Open for collaboration
 
 <table>
   <tr>
