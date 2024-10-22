@@ -1,4 +1,4 @@
-### Computer Vision, Growth @ ultralytics | Open Source Contributor | YOLO11 🚀 | Vision Language Models | Influencer | Open source contributor | Technical writer & community leader VisionAI| LLMs | Open to collaboration
+#### Computer Vision, Growth @ ultralytics | Open Source Contributor | YOLO11 🚀 | Vision Language Models | Influencer | Open source contributor | Technical writer & community leader VisionAI| LLMs | Open to collaboration
 
 <table>
   <tr>
