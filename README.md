@@ -1,4 +1,4 @@
-### Solving real-world problems using computer vision | Influencer | Open source contributor | Technical writer & community leader VisionAI | Daily LinkedIn content | Computer vision engineer | LLMs | Open for collaboration
+### Computer Vision, Growth @ ultralytics | Open Source Contributor | YOLO11 🚀 | Vision Language Models | Influencer | Open source contributor | Technical writer & community leader VisionAI| LLMs | Open to collaboration
 
 <table>
   <tr>
