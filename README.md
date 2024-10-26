@@ -14,8 +14,7 @@
         <img src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen" alt="Muhammad Rizwan Munawar GitHub Visitors Count"/>
       </td>
     <td>
-      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Followers-42K-blue?style=for-the-badge" alt="Muhammad Rizwan Munawar LinkedIn Followers"/></a>
-      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-10M%2B%20Impressions-blue?style=for-the-badge" alt="Muhammad Rizwan Munawar LinkedIn Impressions"/></a>
+      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-42K_Followers_10M+_Impressions-blue?style=for-the-badge" alt="Muhammad Rizwan Munawar LinkedIn Followers and Impressions"/></a>
     </td>
   </tr>
 </table>
