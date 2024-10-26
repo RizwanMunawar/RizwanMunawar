@@ -112,7 +112,4 @@
     <a href="https://www.ultralytics.com/blog" target="_blank">
         <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-111F68?style=for-the-badge&logo=mdbook" alt="Ultralytics Blogs"/>
     </a>
-    <a href="https://www.reddit.com/user/muhammadrizwanmr/" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-Engage-red?style=for-the-badge&logo=reddit" alt="Reddit"/>
-    </a>
 </p>
