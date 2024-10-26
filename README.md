@@ -107,13 +107,12 @@
         <img src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" alt="X (Twitter)"/>
     </a>
     <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank">
-    <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-red?style=for-the-badge&logo=speech-bubble" alt="Ultralytics Discourse"/>
+    <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-111F68?style=for-the-badge&logo=discourse" alt="Ultralytics Discourse"/>
     </a>
     <a href="https://www.ultralytics.com/blog" target="_blank">
-        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-orange?style=for-the-badge&logo=book" alt="Ultralytics Blogs"/>
+        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-111F68?style=for-the-badge&logo=mdbook" alt="Ultralytics Blogs"/>
     </a>
     <a href="https://www.reddit.com/user/muhammadrizwanmr/" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-Engage-lightgrey?style=for-the-badge&logo=reddit" alt="Reddit"/>
+        <img src="https://img.shields.io/badge/Reddit-Engage-red?style=for-the-badge&logo=reddit" alt="Reddit"/>
     </a>
 </p>
-
