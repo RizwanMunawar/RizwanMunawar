@@ -98,10 +98,10 @@
         <img src="https://img.shields.io/badge/Nvidia_Developer-Community-green?style=for-the-badge&logo=nvidia" alt="Nvidia Developer"/>
     </a>
     <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Scholar-Research-lightblue?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
+        <img src="https://img.shields.io/badge/Google_Scholar-Research-purple?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
     </a>
     <a href="https://topmate.io/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Topmate-Consultation-orange?style=for-the-badge&logo=topmate" alt="Topmate"/>
+        <img src="https://img.shields.io/badge/Topmate-Consultation-dodgerblue?style=for-the-badge&logo=topmate" alt="Topmate"/>
     </a>
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
         <img src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" alt="X (Twitter)"/>
