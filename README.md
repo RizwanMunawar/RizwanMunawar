@@ -14,7 +14,9 @@
         <img src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Visitors&color=brightgreen" alt="Muhammad Rizwan Munawar GitHub Visitors Count"/>
       </td>
     <td>
-      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-42K_Followers_10M+_Impressions-blue?style=for-the-badge" alt="Muhammad Rizwan Munawar LinkedIn Followers and Impressions"/></a>
+      <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-42K_Followers_10M%2B_Impressions-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111E68" alt="Muhammad Rizwan Munawar LinkedIn Followers and Impressions"/>
+</a>
     </td>
   </tr>
 </table>
@@ -85,31 +87,29 @@
 <h3 align="center">Let's Connect! 💪</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" alt="Medium"/>
+        <img src="https://img.shields.io/badge/Medium-Articles-%23212121?style=for-the-badge&logo=medium&logoColor=white&labelColor=111E68" alt="Medium" />
     </a>
     <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" target="_blank">
-        <img src="https://img.shields.io/badge/StackOverflow-Questions-orange?style=for-the-badge&logo=stackoverflow" alt="StackOverflow"/>
+        <img src="https://img.shields.io/badge/StackOverflow-Questions-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111E68" alt="StackOverflow" />
     </a>
     <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Nvidia_Developer-Community-green?style=for-the-badge&logo=nvidia" alt="Nvidia Developer"/>
+        <img src="https://img.shields.io/badge/Nvidia_Developer-Community-%237CBF00?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111E68" alt="Nvidia Developer" />
     </a>
     <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Scholar-Research-purple?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
+        <img src="https://img.shields.io/badge/Google_Scholar-Research-%234285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=111E68" alt="Google Scholar" />
     </a>
     <a href="https://topmate.io/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Topmate-Consultation-dodgerblue?style=for-the-badge&logo=topmate" alt="Topmate"/>
+        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=for-the-badge&logo=topmate&logoColor=white&labelColor=111E68" alt="Topmate" />
     </a>
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
-        <img src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" alt="X (Twitter)"/>
+        <img src="https://img.shields.io/badge/X-Follow-%231DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=111E68" alt="X (Twitter)" />
     </a>
     <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank">
-    <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-111F68?style=for-the-badge&logo=discourse" alt="Ultralytics Discourse"/>
+        <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-%23111F68?style=for-the-badge&logo=discourse&logoColor=white" alt="Ultralytics Discourse" />
     </a>
     <a href="https://www.ultralytics.com/blog" target="_blank">
-        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-111F68?style=for-the-badge&logo=mdbook" alt="Ultralytics Blogs"/>
+        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-%23111F68?style=for-the-badge&logo=mdbook&logoColor=white" alt="Ultralytics Blogs" />
     </a>
 </p>
+
