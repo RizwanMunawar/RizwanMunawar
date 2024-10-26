@@ -88,28 +88,28 @@
 
 <p align="center">
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-Articles-%23212121?style=for-the-badge&logo=medium&logoColor=white&labelColor=111E68" alt="Medium" />
+        <img src="https://img.shields.io/badge/Medium-Articles-%23212121?style=flat-square&logo=medium&logoColor=white&labelColor=111E68" alt="Medium" />
     </a>
     <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" target="_blank">
-        <img src="https://img.shields.io/badge/StackOverflow-Questions-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111E68" alt="StackOverflow" />
+        <img src="https://img.shields.io/badge/StackOverflow-Questions-%23F48024?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=111E68" alt="StackOverflow" />
     </a>
     <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Nvidia_Developer-Community-%237CBF00?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111E68" alt="Nvidia Developer" />
+        <img src="https://img.shields.io/badge/Nvidia_Developer-Community-%237CBF00?style=flat-square&logo=nvidia&logoColor=white&labelColor=111E68" alt="Nvidia Developer" />
     </a>
     <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Scholar-Research-%234285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=111E68" alt="Google Scholar" />
+        <img src="https://img.shields.io/badge/Google_Scholar-Research-%234285F4?style=flat-square&logo=google-scholar&logoColor=white&labelColor=111E68" alt="Google Scholar" />
     </a>
     <a href="https://topmate.io/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=for-the-badge&logo=topmate&logoColor=white&labelColor=111E68" alt="Topmate" />
+        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=flat-square&logo=topmate&logoColor=purple&labelColor=111E68" alt="Topmate" />
     </a>
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
-        <img src="https://img.shields.io/badge/X-Follow-%231DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=111E68" alt="X (Twitter)" />
+        <img src="https://img.shields.io/badge/X-Follow-%231DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=111E68" alt="X (Twitter)" />
     </a>
     <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank">
-        <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-%23111F68?style=for-the-badge&logo=discourse&logoColor=white" alt="Ultralytics Discourse" />
+        <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-%23111F68?style=flat-square&logo=discourse&logoColor=white" alt="Ultralytics Discourse" />
     </a>
     <a href="https://www.ultralytics.com/blog" target="_blank">
-        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-%23111F68?style=for-the-badge&logo=mdbook&logoColor=white" alt="Ultralytics Blogs" />
+        <img src="https://img.shields.io/badge/Ultralytics_Blogs-Read-%23111F68?style=flat-square&logo=mdbook&logoColor=white" alt="Ultralytics Blogs" />
     </a>
 </p>
 
