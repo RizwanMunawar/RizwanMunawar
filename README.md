@@ -100,7 +100,7 @@
         <img src="https://img.shields.io/badge/Google_Scholar-Research-%234285F4?style=flat-square&logo=google-scholar&logoColor=white&labelColor=111E68" alt="Google Scholar" />
     </a>
     <a href="https://topmate.io/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=flat-square&logo=topmate&logoColor=purple&labelColor=111E68" alt="Topmate" />
+        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=flat-square&logo=topmate&logoColor=white&labelColor=purple" alt="Topmate" />
     </a>
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
         <img src="https://img.shields.io/badge/X-Follow-%231DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=111E68" alt="X (Twitter)" />
