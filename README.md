@@ -32,8 +32,8 @@
 [Ultralytics YOLOv5 Object Detection + Track + Blur + Analytics Dashboard](https://github.com/RizwanMunawar/yolov5-object-tracking)
 [![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?color=blueviolet)](https://github.com/RizwanMunawar/yolov5-object-tracking/stargazers)
 
-[Ultralytics YOLOv5 Object Detection + Track + Blur + Analytics Dashboard](https://github.com/RizwanMunawar/yolov5-object-tracking)
-[![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?color=blueviolet)](https://github.com/RizwanMunawar/yolov5-object-tracking/stargazers)
+[YOLOv7 Image Segmentation](https://github.com/RizwanMunawar/yolov7-segmentation)
+[![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?color=blueviolet)](https://github.com/RizwanMunawar/yolov7-segmentation/stargazers)
 
 [YOLOv7 Pose Estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation)
 [![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?color=blueviolet)](https://github.com/RizwanMunawar/yolov7-pose-estimation/stargazers)
