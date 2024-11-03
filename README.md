@@ -71,25 +71,27 @@ Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision lang
 
 <p align="center">
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-Articles-%23212121?style=for-the-badge&logo=medium&logoColor=white&labelColor=111E68" alt="Medium" />
+        <img src="assets/medium.png" alt="Medium" width="50" height="50"/>
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" target="_blank">
-        <img src="https://img.shields.io/badge/StackOverflow-Questions-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=111E68" alt="StackOverflow" />
+        <img src="assets/stackoverflow.png" alt="StackOverflow" width="50" height="50"/>
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Nvidia_Developer-Community-%237CBF00?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111E68" alt="Nvidia Developer" />
+        <img src="assets/nvidia.png" alt="Nvidia Developer" width="50" height="50"/>
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Scholar-Research-%234285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=111E68" alt="Google Scholar" />
+        <img src="assets/google scholar.png" alt="Google Scholar" width="50" height="50"/>
     </a>
-    <a href="https://topmate.io/muhammadrizwanmunawar" target="_blank">
-        <img src="https://img.shields.io/badge/Topmate-Consultation-%233B82F6?style=for-the-badge&logo=topmate&logoColor=111E68&labelColor=111E68" alt="Topmate" />
-    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
-        <img src="https://img.shields.io/badge/X-Follow-%231DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=black" alt="X (Twitter)" />
+        <img src="assets/X.png" alt="X (Twitter)" width="50" height="50"/>
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank">
-        <img src="https://img.shields.io/badge/Ultralytics_Discourse-Join-%23111F68?style=for-the-badge&logo=discourse&logoColor=white" alt="Ultralytics Discourse" />
+        <img src="assets/discord.png" alt="Ultralytics Discourse" width="50" height="50"/>
     </a>
 </p>
 
