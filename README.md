@@ -65,33 +65,33 @@
 [Session with Ultralytics Team about Computer Vision Journey](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer)  ![Published Date](https://img.shields.io/badge/published_Date-2022--11--15-brightgreen)
 
 
-<h3 align="center">Let's Connect! 💪</h3>
+<h3 align="center">Let's Connect!💪</h3>
 
 Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision language models | Influencer | Open source contributor | Technical writer | LLMs
 
 <p align="center">
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
-        <img src="assets/medium.png" alt="Medium" width="50" height="50"/>
+        <img src="assets/medium.png" alt="Medium" width="30" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" target="_blank">
-        <img src="assets/stackoverflow.png" alt="StackOverflow" width="50" height="50"/>
+        <img src="assets/stackoverflow.png" alt="StackOverflow" width="30" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" target="_blank">
-        <img src="assets/nvidia.png" alt="Nvidia Developer" width="50" height="50"/>
+        <img src="assets/nvidia.png" alt="Nvidia Developer" width="30" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank">
-        <img src="assets/google scholar.png" alt="Google Scholar" width="50" height="50"/>
+        <img src="assets/google scholar.png" alt="Google Scholar" width="30" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/muhammdrizwanmr" target="_blank">
-        <img src="assets/X.png" alt="X (Twitter)" width="50" height="50"/>
+        <img src="assets/X.png" alt="X (Twitter)" width="30" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank">
-        <img src="assets/discord.png" alt="Ultralytics Discourse" width="50" height="50"/>
+        <img src="assets/discord.png" alt="Ultralytics Discourse" width="30" height="30"/>
     </a>
 </p>
 
