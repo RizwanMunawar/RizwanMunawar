@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=111F68&width=435&lines=Computer+Vision+Engineer;Open+Source+Contributor;Ultralytics+YOLO11;Always+Learning;Technical+Writer;Vision+Language+Models;Influencer;Community+Builder;Love+Engaging+with+Community;VisionAI+Consultant!" alt="Typing SVG"/>
+      <a href="https://visionusecases.com/" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=111F68&width=435&lines=Computer+Vision+Engineer;Open+Source+Contributor;Ultralytics+YOLO11;Always+Learning;Technical+Writer;Vision+Language+Models;Influencer;Community+Builder;Love+Engaging+with+Community;VisionAI+Consultant!" alt="Typing SVG"/>
+</a>
     </td>
     <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=github-compact&hide_border=true&background=FFFFFF" alt="Muhammad Rizwan Munawar Longest Contribution Streak"/>
@@ -21,7 +23,7 @@
   </tr>
 </table>
 
-**Some of my opensource contributions:** [![Ultralytics Contributors Ranking](https://img.shields.io/badge/Among%20top%20%2305%20contributors-Ultralytics-dodgerblue)](https://github.com/ultralytics/ultralytics/graphs/contributors)
+**Some of my opensource contributions:** [Computer Vision Use Cases Docs](https://visionusecases.com/) | [![Ultralytics Contributors Ranking](https://img.shields.io/badge/Among%20top%20%2305%20contributors-Ultralytics-dodgerblue)](https://github.com/ultralytics/ultralytics/graphs/contributors) 
 
 [Ultralytics YOLOv8 Object Tracking](https://github.com/RizwanMunawar/yolov8-object-tracking)
 [![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?color=blueviolet)](https://github.com/RizwanMunawar/yolov8-object-tracking/stargazers)
