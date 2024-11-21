@@ -48,6 +48,8 @@
 
 [My 🖐️Computer Vision Hobby Projects that Yielded Earnings](https://muhammadrizwanmunawar.medium.com/my-️computer-vision-hobby-projects-that-yielded-earnings-7923c9b9eead) ![Published Date](https://img.shields.io/badge/published_Date-2023--09--10-brightgreen)
 
+[How to Monitor Your Workouts Using Ultralytics YOLO11](https://muhammadrizwanmunawar.medium.com/how-to-monitor-your-workouts-using-ultralytics-yolo11-375d8e8bb250) ![Published Date](https://img.shields.io/badge/published_Date-2024--11--19-brightgreen)
+
 [Best Resources to Learn Computer Vision](https://muhammadrizwanmunawar.medium.com/best-resources-to-learn-computer-vision-311352ed0833) ![Published Date](https://img.shields.io/badge/published_Date-2023--06--30-brightgreen)
 
 [Roadmap for Computer Vision Engineer](https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c)  ![Published Date](https://img.shields.io/badge/published_Date-2022--08--07-brightgreen)
