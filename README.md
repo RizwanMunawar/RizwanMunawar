@@ -73,7 +73,7 @@
 
 <h3 align="center">Let's Connect!💪</h3>
 
-Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision language models | Influencer | Open source contributor | Technical writer | LLMs
+Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision language models | Influencer | Open source contributor | Technical writer | LLMs | https://visionusecases.com/
 
 <p align="center">
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
