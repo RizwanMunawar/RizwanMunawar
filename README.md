@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://visionusecases.com/" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=111F68&width=435&lines=Computer+Vision+Engineer;Open+Source+Contributor;Ultralytics+YOLO11;Always+Learning;Technical+Writer;Vision+Language+Models;Influencer;Community+Builder;Love+Engaging+with+Community;VisionAI+Consultant!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=111F68&width=435&lines=Computer+Vision+Engineer;Open+Source+Contributor;Ultralytics+YOLO11;Always+Learning;Technical+Writer;Vision+Language+Models;Influencer;Community+Builder;Love+Engaging+with+Community;VisionAI+Consultant!" alt="Computer Vision Engineer"/>
 </a>
     </td>
     <td colspan="2" align="center">
@@ -75,7 +75,7 @@
 
 <h3 align="center">Let's Connect!💪</h3>
 
-Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision language models | Influencer | Open source contributor | Technical writer | LLMs | https://visionusecases.com/
+Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision language models | Influencer | Open source contributor | Technical writer | https://visionusecases.com/
 
 <p align="center">
     <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank">
