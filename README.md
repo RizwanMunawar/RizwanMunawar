@@ -72,6 +72,7 @@
 
 [Session with Ultralytics Team about Computer Vision Journey](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer)  ![Published Date](https://img.shields.io/badge/published_Date-2022--11--15-brightgreen)
 
+[Speed up Data Annotation Process](https://muhammadrizwanmunawar.medium.com/speed-up-data-labeling-process-88e798c91353)  ![Published Date](https://img.shields.io/badge/published_Date-2022--10--16-brightgreen)
 
 <h3 align="center">Let's Connect!💪</h3>
 
