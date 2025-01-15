@@ -103,4 +103,3 @@ Computer vision, Growth @ultralytics | **Ultralytics YOLO11 🚀** | Vision lang
         <img src="assets/discord.png" alt="Ultralytics Discourse" width="30" height="30"/>
     </a>
 </p>
-
