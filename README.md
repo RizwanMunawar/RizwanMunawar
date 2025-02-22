@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-**Some of my opensource contributions:** [Computer Vision Use Cases Docs](https://visionusecases.com/) | [![Ultralytics Contributors Ranking](https://img.shields.io/badge/Among%20top%20%2305%20contributors-Ultralytics-dodgerblue)](https://github.com/ultralytics/ultralytics/graphs/contributors) 
+**Some of my opensource contributions:** [Computer Vision Use Cases](https://visionusecases.com/) | [![Ultralytics Contributors Ranking](https://img.shields.io/badge/Among%20top%20%2305%20contributors-Ultralytics-dodgerblue)](https://github.com/ultralytics/ultralytics/graphs/contributors) 
 
 [Ultralytics YOLOv8 Object Tracking](https://github.com/RizwanMunawar/yolov8-object-tracking)
 [![autollm stars](https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?color=blueviolet)](https://github.com/RizwanMunawar/yolov8-object-tracking/stargazers)
