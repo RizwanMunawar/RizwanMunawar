@@ -56,17 +56,41 @@
 
 | Title | Link | Date |
 |-------|------|------|
-| 📦 Pallet Racking Inspections (MDPI) | [Read Paper](https://www.mdpi.com/1424-8220/22/18/6927) | ![Date](https://img.shields.io/badge/Published-2022--09--13-aqua) |
-| 🔬 Diabetic Retinopathy – Exudate Detection (IEEE) | [Read Paper](https://ieeexplore.ieee.org/document/9885192) | ![Date](https://img.shields.io/badge/Published-2022--09--12-gray) |
-| 🌾 Rice Leaf Defect Detection (MDPI) | [Read Paper](https://www.mdpi.com/2304-8158/11/23/3914) | ![Date](https://img.shields.io/badge/Published-2022--12--04-citron) |
-| 📊 Comparative Study of YOLO Models | [Read Study](https://aircconline.com/csit/papers/vol12/csit121602.pdf) | ![Date](https://img.shields.io/badge/Published-2022--09--24-gray) |
-| 💊 Explainable AI for Drug Sensitivity (IEEE) | [Read Paper](https://ieeexplore.ieee.org/document/9922931) | ![Date](https://img.shields.io/badge/Published-2022--09--23-green) |
-| 🧭 Training YOLOv8 on Custom Data | [Read Guide](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262) | ![Date](https://img.shields.io/badge/Published-2022--09--23-dodgerblue) |
-| 💡 Speed Up Annotation Process | [Read Tutorial](https://muhammadrizwanmunawar.medium.com/speed-up-data-labeling-process-88e798c91353) | ![Date](https://img.shields.io/badge/Published-2022--10--16-magenta) |
-| 🎤 Becoming a CV Engineer – Ultralytics Blog | [Read Feature](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer) | ![Date](https://img.shields.io/badge/Published-2022--11--15-pink) |
+| Pallet Racking Inspections (MDPI) | [Read Paper](https://www.mdpi.com/1424-8220/22/18/6927) | ![Date](https://img.shields.io/badge/Published-2022--09--13-aqua) |
+| Diabetic Retinopathy – Exudate Detection (IEEE) | [Read Paper](https://ieeexplore.ieee.org/document/9885192) | ![Date](https://img.shields.io/badge/Published-2022--09--12-gray) |
+| Rice Leaf Defect Detection (MDPI) | [Read Paper](https://www.mdpi.com/2304-8158/11/23/3914) | ![Date](https://img.shields.io/badge/Published-2022--12--04-citron) |
+| Comparative Study of YOLO Models | [Read Study](https://aircconline.com/csit/papers/vol12/csit121602.pdf) | ![Date](https://img.shields.io/badge/Published-2022--09--24-gray) |
+| Explainable AI for Drug Sensitivity (IEEE) | [Read Paper](https://ieeexplore.ieee.org/document/9922931) | ![Date](https://img.shields.io/badge/Published-2022--09--23-green) |
+| Training YOLOv8 on Custom Data | [Read Guide](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262) | ![Date](https://img.shields.io/badge/Published-2022--09--23-dodgerblue) |
+| Speed Up Annotation Process | [Read Tutorial](https://muhammadrizwanmunawar.medium.com/speed-up-data-labeling-process-88e798c91353) | ![Date](https://img.shields.io/badge/Published-2022--10--16-magenta) |
+| Becoming a CV Engineer – Ultralytics Blog | [Read Feature](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer) | ![Date](https://img.shields.io/badge/Published-2022--11--15-pink) |
 </details>
 
 ## Social stats & let’s connect
+
+<p align="center">
+  <a href="https://medium.com/@muhammadrizwanmunawar" title="Muhammad Rizwan Munawar on Medium">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" width="28" alt="Medium logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" title="Muhammad Rizwan Munawar on Stack Overflow">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg" width="28" alt="Stack Overflow logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" title="Muhammad Rizwan Munawar on NVIDIA Developer Forum">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" width="28" alt="NVIDIA Developer logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" title="Muhammad Rizwan Munawar on Google Scholar">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/google.svg" width="28" alt="Google Scholar logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/muhammdrizwanmr" title="Muhammad Rizwan Munawar on Twitter / X">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" width="28" alt="X (Twitter) logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://community.ultralytics.com/u/muhammadrizwanm" title="Ultralytics Community">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" width="28" alt="Discord (Ultralytics Community) logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" title="Muhammad Rizwan Munawar on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="28" alt="LinkedIn logo for Muhammad Rizwan Munawar" style="border-radius: 12%; background:#fff; padding:4px;" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/RizwanMunawar" target="_blank">
@@ -82,12 +106,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-47K_Followers_13M%2B_Impressions-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
-<br>
-<p align="center">
-  <a href="https://medium.com/@muhammadrizwanmunawar"><img src="assets/medium.png" width="26" alt="Medium" /></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar"><img src="assets/stackoverflow.png" width="26" alt="Stack Overflow" /></a>&nbsp;&nbsp;
-  <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar"><img src="assets/nvidia.png" width="26" alt="NVIDIA Developer Forum" /></a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"><img src="assets/google scholar.png" width="26" alt="Google Scholar" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/muhammdrizwanmr"><img src="assets/X.png" width="26" alt="X/Twitter" /></a>&nbsp;&nbsp;
-  <a href="https://community.ultralytics.com/u/muhammadrizwanm"><img src="assets/discord.png" width="26" alt="Ultralytics Community" /></a>
-</p>
