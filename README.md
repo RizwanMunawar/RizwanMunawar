@@ -1,29 +1,28 @@
-# Muhammad Rizwan Munawar
+### Simplifying Vision AI for Devs, Startups, and Enterprises
+Hi, I’m **Muhammad Rizwan Munawar**, a top contributor to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation.
 
-*Computer vision engineer | Ultralytics YOLO | Open source contributor | Technical writer & marketer*
+I created **Ultralytics Solutions**, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation.
 
-- As a top contributor to Ultralytics YOLO, I develop real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created Ultralytics Solutions, built to solve real-world computer vision challenges across sectors. My work spans AI system design, model optimization, and scalable deployment, powering applications from smart surveillance to industrial automation.
-
-- With 47 K+ LinkedIn followers and 15 M+ impressions in the past year, I share open-source tools, technical tutorials, and research-driven insights to make Vision AI accessible for developers, startups, and enterprises.
+With **48,000+ LinkedIn followers** and over **15 million impressions** in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products.
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="35%">
       <a href="https://visionusecases.com" target="_blank">
-        <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="280" height="200" alt="Vision AI Showcase by Muhammad Rizwan" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3eTloMmFlaWU5bjNjN2JyY2F1ZHlwdTk4bXhyaWd2aXp1OXpodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="280" height="200" alt="Vision AI Showcase by Muhammad Rizwan Munawar" />
       </a>
     </td>
-    <td align="center" width="55%">
+    <td align="center" width="65%">
       <a href="https://visionusecases.com" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=111F68&vCenter=true&lines=Computer+vision+engineer;Open+source+contributor;Ultralytics+YOLO11;Always+learning;Technical+writer;Vision+language+models;Influencer;Community+builder;VisionAI+consultant;Technical+marketing" alt="YOLO Developer and Vision AI Engineer" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=111E68&center=true&width=440&lines=Computer+Vision+Engineer;Ultralytics+Contributor;Open+Source+Champion;Technical+Writer+%26+Marketer;Vision+Language+Models+Explorer;AI+Educator+%26+Mentor;VisionAI+Consultant;Community+Builder+%F0%9F%8C%90" alt="Rizwan Munawar - Vision AI Engineer" />
       </a>
-      <br><br>
       <a href="https://github.com/RizwanMunawar">
-        <img src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=transparent&hide_border=true" alt="GitHub Contribution Streak by RizwanMunawar" />
+        <img src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=transparent&hide_border=true" alt="GitHub Streak by Muhammad Rizwan Munawar" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ## Open source highlights
 
