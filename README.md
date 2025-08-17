@@ -1,23 +1,26 @@
 ### Simplifying Vision AI for Devs, Startups, and Enterprises
-Hi, I’m **Muhammad Rizwan Munawar**, a top contributor to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation.
 
-I created **Ultralytics Solutions**, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation.
+_Hi, I’m Muhammad Rizwan Munawar amongst the top #05 contributors to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created _**Ultralytics Solutions**_, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation._
 
-With **48,000+ LinkedIn followers** and over **15 million impressions** in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products.
+_With 49K+ LinkedIn followers and over 15M impressions in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
 
 <table width="100%" align="center">
   <tr>
     <td align="center" width="35%">
       <a href="https://visionusecases.com" target="_blank">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3eTloMmFlaWU5bjNjN2JyY2F1ZHlwdTk4bXhyaWd2aXp1OXpodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="280" height="200" alt="Vision AI Showcase by Muhammad Rizwan Munawar" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEyam1jeDZnbGxyNDBicDZzOTJxYWQxZDdkZXE3M3JzMDgzdDVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Vision AI Showcase by Muhammad Rizwan Munawar"/>
+      </a>
+      <a href="https://visionusecases.com targe="_blank">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt3eTloMmFlaWU5bjNjN2JyY2F1ZHlwdTk4bXhyaWd2aXp1OXpodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" alt="Vision AI Showcase by Muhammad Rizwan Munawar"/>
       </a>
     </td>
     <td align="center" width="65%">
       <a href="https://visionusecases.com" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=111E68&center=true&width=440&lines=Computer+Vision+Engineer;Ultralytics+Contributor;Open+Source+Champion;Technical+Writer+%26+Marketer;Vision+Language+Models+Explorer;AI+Educator+%26+Mentor;VisionAI+Consultant;Community+Builder+%F0%9F%8C%90" alt="Rizwan Munawar - Vision AI Engineer" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=dd00ba&center=true&width=440&lines=Computer+vision+engineer;Ultralytics+contributor;Open+source+Work;Technical+writer;Vision+language+models+(vlms);AI+educator+%26+mentor;VisionAI+consultant;Tech+community+builder+%F0%9F%8C%90" alt="Muhammad Rizwan Munawar - Computer Vision Engineer" />
       </a>
       <a href="https://github.com/RizwanMunawar">
-        <img src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=transparent&hide_border=true" alt="GitHub Streak by Muhammad Rizwan Munawar" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanMunawar&bg_color=ffffff&color=dd00ba&line=dd00ba&point=111f68&area=true&hide_border=true"/>
+        <img src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=transparent&hide_border=true" alt="GitHub Streak by Muhammad Rizwan Munawar"/> <!---theme=cyber-streakglow---!>
       </a>
     </td>
   </tr>
@@ -26,8 +29,8 @@ With **48,000+ LinkedIn followers** and over **15 million impressions** in the p
 
 ## Open source highlights
 
-[![VisionAI Contributor](https://img.shields.io/badge/VisionAI-Contributor-green?style=for-the-badge)](https://visionusecases.com)
-[![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue?style=for-the-badge)](https://github.com/ultralytics/ultralytics/graphs/contributors)
+[![VisionAI Contributor](https://img.shields.io/badge/VisionAI-Contributor-green)](https://visionusecases.com)
+[![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
 | Project | Description | GitHub | Stars |
 |--------|-------------|--------|:-----:|
