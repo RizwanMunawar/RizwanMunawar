@@ -50,6 +50,14 @@ jobs:
                 background: #0d1117;
                 color: #e6edf3;
               }
+              /* For shields.io badges */
+              .markdown-body img[src*="shields.io"], 
+              .markdown-body img[src*="img.shields.io"] {
+                display: inline-block;
+                vertical-align: middle;
+                margin: 2px;
+                max-height: 20px;
+              }
               @media (max-width: 767px) { 
                 body { padding: 15px; } 
               }
