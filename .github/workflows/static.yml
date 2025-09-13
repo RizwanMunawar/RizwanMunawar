@@ -1,5 +1,4 @@
 name: Deploy README.md as HTML
-
 on:
   push:
     branches: ["main"]
@@ -20,25 +19,67 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+        
       - name: Install pandoc
-        run: sudo apt-get install -y pandoc
-
-      - name: Convert README.md to index.html
-        run: pandoc README.md -f markdown -t html -s -o index.html
-
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+        
+      - name: Create HTML template
+        run: |
+          cat > template.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Muhammad Rizwan Munawar - Vision AI Engineer</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.4.0/github-markdown.min.css">
+            <style>
+              body { 
+                box-sizing: border-box; 
+                min-width: 200px; 
+                max-width: 980px; 
+                margin: 0 auto; 
+                padding: 45px; 
+                background: #0d1117;
+              }
+              .markdown-body { 
+                box-sizing: border-box; 
+                background: #0d1117;
+                color: #e6edf3;
+              }
+              @media (max-width: 767px) { 
+                body { padding: 15px; } 
+              }
+            </style>
+          </head>
+          <body>
+            <div class="markdown-body">
+          $body$
+            </div>
+          </body>
+          </html>
+          EOF
+        
+      - name: Convert README to HTML
+        run: |
+          pandoc README.md \
+            -f gfm \
+            -t html5 \
+            --standalone \
+            --template=template.html \
+            -o index.html
+            
       - name: Setup Pages
         uses: actions/configure-pages@v5
-
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'  # This will now include index.html
-
+          path: '.'
+          
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
