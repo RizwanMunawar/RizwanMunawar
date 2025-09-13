@@ -1,8 +1,8 @@
 ### Simplifying Vision AI for Devs, Startups, and Enterprises
 
-_Hi, I’m Muhammad Rizwan Munawar amongst the top #05 contributors to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created _**Ultralytics Solutions**_, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation._
+_Hi, I’m Muhammad Rizwan Munawar, proud to be ranked among the top 5 contributors to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created _**Ultralytics Solutions**_, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation._
 
-_With 49K+ LinkedIn followers and over 15M impressions in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
+_With 50K+ LinkedIn followers and over 15M impressions in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
 
 <table width="100%" align="center">
   <tr>
@@ -105,6 +105,6 @@ _With 49K+ LinkedIn followers and over 15M impressions in the past year, I share
     <img src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Views&color=blueviolet&style=flat-square" alt="GitHub Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-47K_Followers_13M%2B_Impressions-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-50K_Followers_15M%2B_Impressions-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
