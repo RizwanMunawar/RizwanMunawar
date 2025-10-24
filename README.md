@@ -1,5 +1,7 @@
 ### Simplifying Vision AI for Devs, Startups, and Enterprises
 
+<a href="https://trendshift.io/developers/7038" target="_blank"><img src="https://trendshift.io/api/badge/developers/7038" alt="RizwanMunawar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 _Hi, I’m Muhammad Rizwan Munawar, proud to be ranked among the top 5 contributors to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created _**Ultralytics Solutions**_, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation._
 
 _With 50K+ LinkedIn followers and over 15M impressions in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
