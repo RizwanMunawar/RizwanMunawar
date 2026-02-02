@@ -32,7 +32,7 @@ _With 50K+ LinkedIn followers and over 15M impressions in the past year, I share
 ## Open source highlights
 
 [![VisionAI Contributor](https://img.shields.io/badge/VisionAI-Contributor-green)](https://visionusecases.com)
-[![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue)](https://github.com/ultralytics/ultralytics/graphs/contributors)
+[![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue)](https://github.com/ultralytics/ultralytics/graphs/contributors) [![committers.top badge](https://user-badge.committers.top/pakistan/RizwanMunawar.svg)](https://user-badge.committers.top/pakistan/RizwanMunawar)
 
 | Project | Description | GitHub | Stars |
 |--------|-------------|--------|:-----:|
