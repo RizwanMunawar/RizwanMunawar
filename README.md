@@ -1,10 +1,17 @@
 ### Simplifying Vision AI for Devs, Startups, and Enterprises
 
-<a href="https://trendshift.io/developers/7038" target="_blank"><img src="https://trendshift.io/api/badge/developers/7038" alt="RizwanMunawar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap;">
+  <a href="https://platform.ultralytics.com/muhammadrizwanmunawar">
+    <img src="https://img.shields.io/badge/Explore_Ultralytics-Platform_Projects-042AFF?style=for-the-badge&logo=ultralytics&logoColor=white"
+         alt="Ultralytics Platform Projects"
+         style="height: 35px;"/>
+  </a>
+</div>
+<p><strong>Datasets created • Models trained • Deployments</strong></p>
 
 _Hi, I’m Muhammad Rizwan Munawar, proud to be ranked among the top 5 contributors to the Ultralytics repository, where I design and build real-time AI systems for object detection, segmentation, tracking, and pose estimation. I created _**Ultralytics Solutions**_, a modular toolkit solving real-world computer vision problems, from smart surveillance to industrial automation._
 
-_With 50K+ LinkedIn followers and over 15M impressions in the past year, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
+_With 53K+ (53000) LinkedIn followers and over 25M impressions in the last 2 years, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of Vision AI products._
 
 <table width="100%" align="center">
   <tr>
@@ -33,6 +40,8 @@ _With 50K+ LinkedIn followers and over 15M impressions in the past year, I share
 
 [![VisionAI Contributor](https://img.shields.io/badge/VisionAI-Contributor-green)](https://visionusecases.com)
 [![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue)](https://github.com/ultralytics/ultralytics/graphs/contributors) [![committers.top badge](https://user-badge.committers.top/pakistan/RizwanMunawar.svg)](https://user-badge.committers.top/pakistan/RizwanMunawar)
+
+[![RizwanMunawar Trendshift](https://trendshift.io/api/badge/developers/7038)](https://trendshift.io/developers/7038)
 
 | Project | Description | GitHub | Stars |
 |--------|-------------|--------|:-----:|
