@@ -116,6 +116,6 @@ _With 53K+ (53000) LinkedIn followers and over 25M impressions in the last 2 yea
     <img src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Views&color=blueviolet&style=flat-square" alt="GitHub Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-51K_Followers_20M%2B_Impressions-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-53K_Followers_22M%2B_Impressions-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
