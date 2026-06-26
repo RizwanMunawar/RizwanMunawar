@@ -38,7 +38,7 @@ _With 53K+ (53000) LinkedIn followers and over 25M impressions in the last 2 yea
 
 ## Open source highlights
 
-[![VisionAI Contributor](https://img.shields.io/badge/VisionAI-Contributor-green)](https://visionusecases.com)
+[![RizwanAI Founder](https://img.shields.io/badge/RizwanAI-Contributor-purple)](https://rizwanai.com/)
 [![Ultralytics Contributor](https://img.shields.io/badge/Top_Contributor-Ultralytics-blue)](https://github.com/ultralytics/ultralytics/graphs/contributors) [![committers.top badge](https://user-badge.committers.top/pakistan/RizwanMunawar.svg)](https://user-badge.committers.top/pakistan/RizwanMunawar)
 
 [![RizwanMunawar Trendshift](https://trendshift.io/api/badge/developers/7038)](https://trendshift.io/developers/7038)
