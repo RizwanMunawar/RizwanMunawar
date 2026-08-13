@@ -6,9 +6,9 @@
   <a href="https://rizwanai.com/"><img alt="Rizwan AI Founder" src="https://img.shields.io/badge/-Rizwan_AI_Founder-DD00BA?style=flat-square&logoColor=white" /></a>
   <a href="https://github.com/RizwanMunawar"><img alt="Open Source Contributor" src="https://img.shields.io/badge/-Open_Source_Contributor-042AFF?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@muhammadrizwanmunawar"><img alt="Content Creator" src="https://img.shields.io/badge/-Content_Creator-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/-Upwork_Top_Rated_Plus-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork_Freelancer-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
   <a href="https://trendshift.io/developers/7038"><img alt="Trendshift Developer" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar"><img alt="LinkedIn" src="https://img.shields.io/badge/-53K%2B_LinkedIn_·_25M%2B_Impressions-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar"><img alt="LinkedIn" src="https://img.shields.io/badge/-55K%2B_LinkedIn_·_25M%2B_Impressions-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h3>Things I build with</h3>
@@ -25,14 +25,15 @@
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai_Edge-0A2540?style=flat-square" />
+  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai_Edge-FFC107?style=flat-square&labelColor=FFC107" />
+  <img alt="MemryX" src="https://img.shields.io/badge/-MemryX_Edge-1B5E20?style=flat-square" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 <h3>What I do</h3>
-<p>Today my focus is computer vision content creation and consulting. I write tutorials and technical articles, publish open-source projects, mentor developers, and take on freelance vision work through Rizwan AI and Upwork, where I'm a Top Rated Plus freelancer.</p>
+<p>Today my focus is computer vision content creation and consulting. I write tutorials and technical articles, publish open-source projects, mentor developers, and take on freelance vision work through Rizwan AI and Upwork.</p>
 <p>
   <img alt="Technical Writing" src="https://img.shields.io/badge/-Technical_Writing-DD00BA?style=flat-square" />
   <img alt="Open Source" src="https://img.shields.io/badge/-Open_Source-042AFF?style=flat-square" />
@@ -42,7 +43,7 @@
 </p>
 
 <h3>Open-source contributions to Ultralytics</h3>
-<p>I've been an active contributor to <a href="https://github.com/ultralytics/ultralytics">Ultralytics YOLO</a>, where I helped build much of the Solutions module, production-ready building blocks used by developers worldwide, along with docs, notebooks, and tutorials from YOLOv8 through YOLO11. These are past open-source contributions; today I focus on content creation and building at Rizwan AI.</p>
+<p>I've been an active contributor to <a href="https://github.com/ultralytics/ultralytics">ultralytics/ultralytics</a>, where I helped build much of the Solutions module, production-ready building blocks used by developers worldwide, along with docs, notebooks, and tutorials from YOLOv8 through YOLO11.</p>
 <p>
   <img alt="Object Counting" src="https://img.shields.io/badge/-Object_Counting-042AFF?style=flat-square" />
   <img alt="Region & Zone Counting" src="https://img.shields.io/badge/-Region_%26_Zone_Counting-042AFF?style=flat-square" />
@@ -60,12 +61,12 @@
 <p>
   <img alt="Ultralytics" src="https://img.shields.io/badge/-Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" />
   <img alt="Teknoir" src="https://img.shields.io/badge/-Teknoir-0A2540?style=flat-square" />
-  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai-0A2540?style=flat-square" />
-  <img alt="Aksiyon Teknoloji" src="https://img.shields.io/badge/-Aksiyon_Teknoloji-1F6FEB?style=flat-square" />
+  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai-FFC107?style=flat-square&labelColor=FFC107" />
+  <img alt="MemryX" src="https://img.shields.io/badge/-MemryX-1B5E20?style=flat-square" />
   <img alt="Augmented Startups" src="https://img.shields.io/badge/-Augmented_Startups-FF6F00?style=flat-square" />
   <img alt="Conversence" src="https://img.shields.io/badge/-Conversence-6E44FF?style=flat-square" />
   <img alt="Web Solutions Plus" src="https://img.shields.io/badge/-Web_Solutions_Plus-2496ED?style=flat-square" />
-  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork_(Top_Rated_Plus)-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
 </p>
 
 <h3>Project demos</h3>
