@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Muhammad Rizwan Munawar, a <b>Computer Vision Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> <b>Pakistan</b>, founder of <a href="https://rizwanai.com/"><b>Rizwan AI</b></a> and a <b>top 5 contributor</b> to <a href="https://github.com/ultralytics/ultralytics"><b>Ultralytics</b></a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and ship them to cloud, on-prem, and edge hardware.</p>
+<p>Welcome to my page! </br> I'm Muhammad Rizwan Munawar, a Computer Vision Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, founder of <a href="https://rizwanai.com/">Rizwan AI</a> and a top 5 contributor to <a href="https://github.com/ultralytics/ultralytics">Ultralytics</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and ship them to cloud, on-prem, and edge hardware.</p>
 
 <p>
   <a href="https://platform.ultralytics.com/muhammadrizwanmunawar"><img alt="Ultralytics Platform" src="https://img.shields.io/badge/-Ultralytics_Platform-042AFF?style=flat-square&logo=ultralytics&logoColor=white" /></a>
@@ -30,7 +30,7 @@
 </p>
 
 <h3>What I contribute at Ultralytics</h3>
-<p>I created and maintain much of the <b>Ultralytics Solutions</b> module, production-ready building blocks used by developers worldwide, plus docs, notebooks, and tutorials kept current from YOLOv8 through YOLO11.</p>
+<p>I created and maintain much of the Ultralytics Solutions module, production-ready building blocks used by developers worldwide, plus docs, notebooks, and tutorials kept current from YOLOv8 through YOLO11.</p>
 <p>
   <img alt="Object Counting" src="https://img.shields.io/badge/-Object_Counting-042AFF?style=flat-square" />
   <img alt="Region & Zone Counting" src="https://img.shields.io/badge/-Region_%26_Zone_Counting-042AFF?style=flat-square" />
@@ -41,6 +41,34 @@
   <img alt="Parking Management" src="https://img.shields.io/badge/-Parking_Management-6E44FF?style=flat-square" />
   <img alt="Queue Management" src="https://img.shields.io/badge/-Queue_Management-6E44FF?style=flat-square" />
 </p>
+
+<h3>Project demos</h3>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/RizwanMunawar/trajectory-forcast">trajectory-forcast</a><br/>
+      <sub>Kalman-filtered trajectory forecasting</sub><br/>
+      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" controls muted loop playsinline width="420"></video>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/RizwanMunawar/sam3-inference">sam3-inference</a><br/>
+      <sub>Meta Segment Anything Model 3</sub><br/>
+      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" controls muted loop playsinline width="420"></video>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/RizwanMunawar/blurit">blurit</a><br/>
+      <sub>Privacy-first, in-browser redaction</sub><br/>
+      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" controls muted loop playsinline width="420"></video>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/RizwanMunawar/cvflow">cvflow</a><br/>
+      <sub>YOLO/COCO dataset linter</sub><br/>
+      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" controls muted loop playsinline width="420"></video>
+    </td>
+  </tr>
+</table>
 
 <h3>Latest projects</h3>
 <table>
