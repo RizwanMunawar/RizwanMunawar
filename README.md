@@ -1,12 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Muhammad Rizwan Munawar, a Computer Vision Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, founder of <a href="https://rizwanai.com/">Rizwan AI</a> and a top 5 contributor to <a href="https://github.com/ultralytics/ultralytics">Ultralytics</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and ship them to cloud, on-prem, and edge hardware.</p>
+<p>I'm Muhammad Rizwan Munawar, a Computer Vision Engineer and content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, and the founder of <a href="https://rizwanai.com/">Rizwan AI</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
 
 <p>
-  <a href="https://platform.ultralytics.com/muhammadrizwanmunawar"><img alt="Ultralytics Platform" src="https://img.shields.io/badge/-Ultralytics_Platform-042AFF?style=flat-square&logo=ultralytics&logoColor=white" /></a>
-  <a href="https://rizwanai.com/"><img alt="Rizwan AI" src="https://img.shields.io/badge/-Rizwan_AI-DD00BA?style=flat-square&logoColor=white" /></a>
-  <a href="https://trendshift.io/developers/7038"><img alt="Trendshift" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar"><img alt="LinkedIn Followers" src="https://img.shields.io/badge/-53K%2B_LinkedIn_·_25M%2B_Impressions-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rizwanai.com/"><img alt="Rizwan AI Founder" src="https://img.shields.io/badge/-Rizwan_AI_Founder-DD00BA?style=flat-square&logoColor=white" /></a>
+  <a href="https://github.com/RizwanMunawar"><img alt="Open Source Contributor" src="https://img.shields.io/badge/-Open_Source_Contributor-042AFF?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@muhammadrizwanmunawar"><img alt="Content Creator" src="https://img.shields.io/badge/-Content_Creator-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/-Upwork_Top_Rated_Plus-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <a href="https://trendshift.io/developers/7038"><img alt="Trendshift Developer" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar"><img alt="LinkedIn" src="https://img.shields.io/badge/-53K%2B_LinkedIn_·_25M%2B_Impressions-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h3>Things I build with</h3>
@@ -29,8 +31,18 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<h3>What I contribute at Ultralytics</h3>
-<p>I created and maintain much of the Ultralytics Solutions module, production-ready building blocks used by developers worldwide, plus docs, notebooks, and tutorials kept current from YOLOv8 through YOLO11.</p>
+<h3>What I do</h3>
+<p>Today my focus is computer vision content creation and consulting. I write tutorials and technical articles, publish open-source projects, mentor developers, and take on freelance vision work through Rizwan AI and Upwork, where I'm a Top Rated Plus freelancer.</p>
+<p>
+  <img alt="Technical Writing" src="https://img.shields.io/badge/-Technical_Writing-DD00BA?style=flat-square" />
+  <img alt="Open Source" src="https://img.shields.io/badge/-Open_Source-042AFF?style=flat-square" />
+  <img alt="Consulting & Freelance" src="https://img.shields.io/badge/-Consulting_%26_Freelance-00B0FF?style=flat-square" />
+  <img alt="Mentoring & Education" src="https://img.shields.io/badge/-Mentoring_%26_Education-6E44FF?style=flat-square" />
+  <img alt="Edge AI & Deployment" src="https://img.shields.io/badge/-Edge_AI_%26_Deployment-111F68?style=flat-square" />
+</p>
+
+<h3>Open-source contributions to Ultralytics</h3>
+<p>I've been an active contributor to <a href="https://github.com/ultralytics/ultralytics">Ultralytics YOLO</a>, where I helped build much of the Solutions module, production-ready building blocks used by developers worldwide, along with docs, notebooks, and tutorials from YOLOv8 through YOLO11. These are past open-source contributions; today I focus on content creation and building at Rizwan AI.</p>
 <p>
   <img alt="Object Counting" src="https://img.shields.io/badge/-Object_Counting-042AFF?style=flat-square" />
   <img alt="Region & Zone Counting" src="https://img.shields.io/badge/-Region_%26_Zone_Counting-042AFF?style=flat-square" />
@@ -41,31 +53,45 @@
   <img alt="Parking Management" src="https://img.shields.io/badge/-Parking_Management-6E44FF?style=flat-square" />
   <img alt="Queue Management" src="https://img.shields.io/badge/-Queue_Management-6E44FF?style=flat-square" />
 </p>
+<p><a href="https://platform.ultralytics.com/muhammadrizwanmunawar"><img alt="Ultralytics Platform" src="https://img.shields.io/badge/-My_Ultralytics_Platform_Portfolio-042AFF?style=flat-square&logo=ultralytics&logoColor=white" /></a></p>
+
+<h3>Selected experience</h3>
+<p>Teams and companies I've worked with or built projects for across the computer vision industry:</p>
+<p>
+  <img alt="Ultralytics" src="https://img.shields.io/badge/-Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" />
+  <img alt="Teknoir" src="https://img.shields.io/badge/-Teknoir-0A2540?style=flat-square" />
+  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai-0A2540?style=flat-square" />
+  <img alt="Aksiyon Teknoloji" src="https://img.shields.io/badge/-Aksiyon_Teknoloji-1F6FEB?style=flat-square" />
+  <img alt="Augmented Startups" src="https://img.shields.io/badge/-Augmented_Startups-FF6F00?style=flat-square" />
+  <img alt="Conversence" src="https://img.shields.io/badge/-Conversence-6E44FF?style=flat-square" />
+  <img alt="Web Solutions Plus" src="https://img.shields.io/badge/-Web_Solutions_Plus-2496ED?style=flat-square" />
+  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork_(Top_Rated_Plus)-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+</p>
 
 <h3>Project demos</h3>
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/RizwanMunawar/trajectory-forcast">trajectory-forcast</a><br/>
-      <sub>Kalman-filtered trajectory forecasting</sub><br/>
-      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" controls muted loop playsinline width="420"></video>
+      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" controls muted loop playsinline width="400" height="240"></video><br/>
+      🎯 &nbsp;<a href="https://github.com/RizwanMunawar/trajectory-forcast">Trajectory Forecasting</a><br/>
+      <sub>Predict where tracked objects move next</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/RizwanMunawar/sam3-inference">sam3-inference</a><br/>
-      <sub>Meta Segment Anything Model 3</sub><br/>
-      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" controls muted loop playsinline width="420"></video>
+      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" controls muted loop playsinline width="400" height="240"></video><br/>
+      🧩 &nbsp;<a href="https://github.com/RizwanMunawar/sam3-inference">SAM 3 Inference</a><br/>
+      <sub>Segment anything with Meta SAM 3</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/RizwanMunawar/blurit">blurit</a><br/>
-      <sub>Privacy-first, in-browser redaction</sub><br/>
-      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" controls muted loop playsinline width="420"></video>
+      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" controls muted loop playsinline width="400" height="240"></video><br/>
+      🕶️ &nbsp;<a href="https://github.com/RizwanMunawar/blurit">BlurIt — Image Redaction</a><br/>
+      <sub>Privacy-first blurring in the browser</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/RizwanMunawar/cvflow">cvflow</a><br/>
-      <sub>YOLO/COCO dataset linter</sub><br/>
-      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" controls muted loop playsinline width="420"></video>
+      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" controls muted loop playsinline width="400" height="240"></video><br/>
+      🧹 &nbsp;<a href="https://github.com/RizwanMunawar/cvflow">CVFlow — Dataset Linter</a><br/>
+      <sub>Audit YOLO / COCO datasets</sub>
     </td>
   </tr>
 </table>
@@ -95,13 +121,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/RizwanMunawar/analyticsengine"><b>analyticsengine</b></a> — Real-time multi-stream CV dashboard with Python, FastAPI, and WebSockets</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/analyticsengine?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/analyticsengine?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/analyticsengine?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/analyticsengine?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/RizwanMunawar/blurit"><b>blurit</b></a> — Privacy-first, in-browser image redaction; click a face, download a clean PNG</td>
@@ -213,21 +232,28 @@
 </ul>
 
 <h3>Where to find me</h3>
-<p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DD00BA&center=true&width=520&lines=Let's+build+Vision+AI+together;Open+to+consulting+and+collaboration;Reach+me+on+any+platform+below" alt="Let's connect" />
+</p>
+
+<p align="center">
   <a href="https://rizwanai.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23DD00BA.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@muhammadrizwanmunawar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://x.com/muhammdrizwanmr" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/13109683/muhammad-rizwan-munawar" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://forums.developer.nvidia.com/u/muhammadrizwanmunawar" target="_blank"><img alt="NVIDIA Developer" src="https://img.shields.io/badge/NVIDIA_Developer-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-%234285F4.svg?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.kaggle.com/muhammadriz123" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://community.ultralytics.com/u/muhammadrizwanm" target="_blank"><img alt="Ultralytics Community" src="https://img.shields.io/badge/Ultralytics_Community-%23042AFF.svg?&style=for-the-badge&logo=ultralytics&logoColor=white" /></a>
   <a href="https://github.com/RizwanMunawar" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-------------
-
-<p align="center">Building open-source Vision AI, one commit at a time.<br/>
-<img alt="Followers" src="https://img.shields.io/github/followers/RizwanMunawar?style=flat-square&labelColor=343b41"/>
-<img alt="Total Stars" src="https://img.shields.io/github/stars/RizwanMunawar?style=flat-square&labelColor=343b41"/>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Profile+Views&color=dd00ba&style=flat-square" />
+<p align="center">
+  <a href="https://github.com/RizwanMunawar?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/github/followers/RizwanMunawar?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=111f68&color=DD00BA"/></a>
+  <a href="https://github.com/RizwanMunawar?tab=repositories" target="_blank"><img alt="Total Stars" src="https://img.shields.io/github/stars/RizwanMunawar?style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=111f68&color=DD00BA"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=PROFILE+VIEWS&style=for-the-badge&color=DD00BA" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave" />
