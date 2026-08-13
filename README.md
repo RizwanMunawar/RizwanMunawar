@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Rizwan Munawar</h1>
-<h3 align="center">Simplifying Vision AI for Devs, Startups, and Enterprises</h3>
+<h3 align="center">Computer Vision Engineer — Simplifying Vision AI for Devs, Startups, and Enterprises</h3>
 
 <p align="center">
   <a href="https://github.com/RizwanMunawar">
@@ -19,13 +19,13 @@
 
 ---
 
-## 👋 About me
+## About me
 
-I'm **Muhammad Rizwan Munawar**, a **Computer Vision Engineer** and the founder of **[Rizwan AI](https://rizwanai.com/)**. I'm proud to be ranked among the **top 5 contributors to the [Ultralytics](https://github.com/ultralytics/ultralytics)** repository, where I design and build real-time AI systems for **object detection, instance segmentation, object tracking, and pose estimation**.
+I'm Muhammad Rizwan Munawar, a Computer Vision Engineer and the founder of [Rizwan AI](https://rizwanai.com/). I'm ranked among the top 5 contributors to the [Ultralytics](https://github.com/ultralytics/ultralytics) repository, where I design and build real-time AI systems for object detection, instance segmentation, object tracking, and pose estimation.
 
-I created **Ultralytics Solutions** — a modular toolkit that solves real-world computer vision problems, from smart surveillance to industrial automation. My work spans **YOLOv5 → YOLOv7 → YOLOv8 → YOLO11 → YOLO26**, Meta **SAM 3**, **RT-DETR**, and **Vision Language Models (VLMs)** — deployed on cloud, on-prem, and **edge hardware** (NVIDIA Jetson, SiMa.ai).
+I created Ultralytics Solutions, a modular toolkit that solves real-world computer vision problems, from smart surveillance to industrial automation. My work spans YOLOv5, YOLOv7, YOLOv8, YOLO11, and YOLO26, Meta SAM 3, RT-DETR, and Vision Language Models (VLMs), deployed on cloud, on-prem, and edge hardware such as NVIDIA Jetson and SiMa.ai.
 
-With **53K+ LinkedIn followers** and **25M+ impressions** over the last two years, plus **Top Rated Plus** status on Upwork, I share open-source tools, tutorials, and research-driven insights to empower developers, startups, and enterprises building the next generation of **Vision AI** products.
+With 53K+ LinkedIn followers and 25M+ impressions over the last two years, plus Top Rated Plus status on Upwork, I share open-source tools, tutorials, and research so developers, startups, and enterprises can build Vision AI products.
 
 <table width="100%" align="center">
   <tr>
@@ -47,7 +47,7 @@ With **53K+ LinkedIn followers** and **25M+ impressions** over the last two year
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -65,88 +65,88 @@ With **53K+ LinkedIn followers** and **25M+ impressions** over the last two year
   <img src="https://img.shields.io/badge/SiMa.ai-Edge_AI-0A2540?style=flat-square" alt="SiMa.ai Edge AI"/>
 </p>
 
-<p align="center"><i>Detection · Segmentation · Tracking · Pose · OCR · Video Analytics · Quality Inspection · Auto-Annotation · Edge Deployment</i></p>
+<p align="center"><sub>Detection · Segmentation · Tracking · Pose · OCR · Video Analytics · Quality Inspection · Auto-Annotation · Edge Deployment</sub></p>
 
 ---
 
-## 🏗️ How I work
+## How I work
 
-**Rizwan AI works end to end** — I frame the problem against *your* data, build a prototype you can evaluate early, then harden it into a production system that runs reliably on cloud, on-prem, or edge hardware.
+Rizwan AI works end to end. I define the problem against your data, build a prototype you can evaluate early, optimize it for the target hardware, and deploy a system that runs reliably on cloud, on-prem, or edge.
 
 | Stage | What it looks like |
 |-------|--------------------|
-| 🎯 **Scope** | Define the problem against real data, success metrics, and hardware constraints |
-| 🧪 **Prototype** | Fast, evaluable proof-of-concept — detection, tracking, OCR, or video analytics |
-| 🛡️ **Harden** | Optimize (ONNX / TensorRT), reduce jitter, benchmark FPS, containerize |
-| 🚀 **Ship** | Deploy to cloud, on-prem, or edge (Jetson / SiMa.ai) with monitoring & docs |
+| Scope | Define the problem, success metrics, and hardware constraints against real data |
+| Prototype | Build a fast, evaluable proof of concept: detection, tracking, OCR, or analytics |
+| Optimize | Export to ONNX / TensorRT, reduce jitter, benchmark FPS, containerize |
+| Deploy | Ship to cloud, on-prem, or edge (Jetson / SiMa.ai) with monitoring and docs |
 
 ---
 
-## ✨ Latest projects <sub>(newest ideas first)</sub>
+## Latest projects <sub>(newest ideas first)</sub>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🧹 <a href="https://github.com/RizwanMunawar/cvflow">cvflow</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/cvflow?style=social" alt="stars"/></h4>
-      A CLI <b>dataset linter</b> that audits YOLO/COCO datasets for broken images, bad annotations, duplicates, and train/val <b>split leakage</b> — data quality for MLOps.
+      <h4><a href="https://github.com/RizwanMunawar/cvflow">cvflow</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/cvflow?style=social" alt="stars"/></h4>
+      A CLI dataset linter that audits YOLO and COCO datasets for broken images, bad annotations, duplicates, and train/val split leakage. Data quality for MLOps.
     </td>
     <td width="50%" valign="top">
-      <h4>🏭 <a href="https://github.com/RizwanMunawar/sima-projects">sima-projects</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/sima-projects?style=social" alt="stars"/></h4>
-      Reference YOLO detection app + full setup guide for the <b>SiMa.ai Modalix edge DevKit</b> (WSL2, Docker, Neat SDK, live Neat Insight streaming).
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/RizwanMunawar/analyticsengine">analyticsengine</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/analyticsengine?style=social" alt="stars"/></h4>
-      Real-time <b>multi-stream computer vision dashboard</b> powered by Python, FastAPI, WebSockets and RTSP.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕶️ <a href="https://github.com/RizwanMunawar/blurit">blurit</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/blurit?style=social" alt="stars"/></h4>
-      <b>Privacy-first, in-browser</b> image redaction — click a face or drag a box, download a clean PNG. No uploads, no accounts, no logs. <a href="https://blurkit-ashy.vercel.app/">Live demo</a>.
+      <h4><a href="https://github.com/RizwanMunawar/sima-projects">sima-projects</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/sima-projects?style=social" alt="stars"/></h4>
+      Reference YOLO detection app and full setup guide for the SiMa.ai Modalix edge DevKit (WSL2, Docker, Neat SDK, live Neat Insight streaming).
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/RizwanMunawar/trajectory-forcast">trajectory-forcast</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/trajectory-forcast?style=social" alt="stars"/></h4>
-      Lightweight <b>Kalman-filtered trajectory forecasting</b> for Ultralytics YOLO — predicts where tracked objects move next; stable, low-jitter, real-time.
+      <h4><a href="https://github.com/RizwanMunawar/analyticsengine">analyticsengine</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/analyticsengine?style=social" alt="stars"/></h4>
+      Real-time multi-stream computer vision dashboard powered by Python, FastAPI, WebSockets, and RTSP.
     </td>
     <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/RizwanMunawar/streamgrid">streamgrid</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/streamgrid?style=social" alt="stars"/></h4>
-      <b>Multi-stream video inference</b> with Ultralytics YOLO — display many streams in a grid with real-time detection & tracking.
+      <h4><a href="https://github.com/RizwanMunawar/blurit">blurit</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/blurit?style=social" alt="stars"/></h4>
+      Privacy-first, in-browser image redaction. Click a face or drag a box, download a clean PNG. No uploads, no accounts, no logs. <a href="https://blurkit-ashy.vercel.app/">Live demo</a>.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧩 <a href="https://github.com/RizwanMunawar/sam3-inference">sam3-inference</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/sam3-inference?style=social" alt="stars"/></h4>
-      Inference toolkit for Meta's <b>Segment Anything Model 3 (SAM 3)</b> — promptable detection, segmentation, and auto-annotation.
+      <h4><a href="https://github.com/RizwanMunawar/trajectory-forcast">trajectory-forcast</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/trajectory-forcast?style=social" alt="stars"/></h4>
+      A lightweight Kalman-filtered trajectory forecasting extension for Ultralytics YOLO. Predicts where tracked objects move next; stable, low-jitter, real-time.
     </td>
     <td width="50%" valign="top">
-      <h4>🖼️ <a href="https://github.com/RizwanMunawar/visionusecases">visionusecases</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/visionusecases?style=social" alt="stars"/></h4>
-      A curated hub of <b>real-world Vision AI use cases</b> — detection, segmentation, tracking, counting, and auto-annotation with YOLO, SAM & VLMs.
+      <h4><a href="https://github.com/RizwanMunawar/streamgrid">streamgrid</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/streamgrid?style=social" alt="stars"/></h4>
+      Multi-stream video inference with Ultralytics YOLO. Display many video streams in a grid with real-time detection and tracking.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RizwanMunawar/sam3-inference">sam3-inference</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/sam3-inference?style=social" alt="stars"/></h4>
+      Inference toolkit for Meta Segment Anything Model 3 (SAM 3): promptable detection, segmentation, and auto-annotation.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RizwanMunawar/visionusecases">visionusecases</a> &nbsp;<img src="https://img.shields.io/github/stars/RizwanMunawar/visionusecases?style=social" alt="stars"/></h4>
+      A curated hub of real-world Vision AI use cases: detection, segmentation, tracking, counting, and auto-annotation with YOLO, SAM, and VLMs.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Flagship open source <sub>(most starred)</sub>
+## Flagship open source <sub>(most starred)</sub>
 
 | Project | What it does | Stars |
 |---------|--------------|:-----:|
-| [**yolov7-object-tracking**](https://github.com/RizwanMunawar/yolov7-object-tracking) | Real-time YOLOv7 object tracking with SORT — bounding boxes + IDs | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social) |
-| [**yolov7-pose-estimation**](https://github.com/RizwanMunawar/yolov7-pose-estimation) | Human pose / keypoint estimation with YOLOv7, OpenCV & PyTorch | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?style=social) |
-| [**yolov8-object-tracking**](https://github.com/RizwanMunawar/yolov8-object-tracking) | YOLOv8 object tracking using PyTorch, OpenCV & Ultralytics | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=social) |
-| [**yolov7-segmentation**](https://github.com/RizwanMunawar/yolov7-segmentation) | Instance segmentation with YOLOv7 for visual intelligence | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social) |
-| [**yolov5-object-tracking**](https://github.com/RizwanMunawar/yolov5-object-tracking) | YOLOv5 detection + tracking + object blurring + Streamlit dashboard | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?style=social) |
-| [**yolov7-object-blurring**](https://github.com/RizwanMunawar/yolov7-object-blurring) | Privacy-preserving object blurring with YOLOv7 & OpenCV | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-blurring?style=social) |
-| [**yolov7-object-cropping**](https://github.com/RizwanMunawar/yolov7-object-cropping) | Automatic object cropping from detections using OpenCV | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-cropping?style=social) |
-| [**YOLO-RX57-FPS-Comparision**](https://github.com/RizwanMunawar/YOLO-RX57-FPS-Comparision) | FPS benchmark across YOLOX, YOLOR, YOLOv5 & YOLOv7 | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/YOLO-RX57-FPS-Comparision?style=social) |
+| [yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) | Real-time YOLOv7 object tracking with SORT: bounding boxes and IDs | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social) |
+| [yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) | Human pose and keypoint estimation with YOLOv7, OpenCV, and PyTorch | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?style=social) |
+| [yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) | YOLOv8 object tracking using PyTorch, OpenCV, and Ultralytics | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=social) |
+| [yolov7-segmentation](https://github.com/RizwanMunawar/yolov7-segmentation) | Instance segmentation with YOLOv7 for visual intelligence | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social) |
+| [yolov5-object-tracking](https://github.com/RizwanMunawar/yolov5-object-tracking) | YOLOv5 detection, tracking, object blurring, and a Streamlit dashboard | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?style=social) |
+| [yolov7-object-blurring](https://github.com/RizwanMunawar/yolov7-object-blurring) | Privacy-preserving object blurring with YOLOv7 and OpenCV | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-blurring?style=social) |
+| [yolov7-object-cropping](https://github.com/RizwanMunawar/yolov7-object-cropping) | Automatic object cropping from detections using OpenCV | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-cropping?style=social) |
+| [YOLO-RX57-FPS-Comparision](https://github.com/RizwanMunawar/YOLO-RX57-FPS-Comparision) | FPS benchmark across YOLOX, YOLOR, YOLOv5, and YOLOv7 | ![Stars](https://img.shields.io/github/stars/RizwanMunawar/YOLO-RX57-FPS-Comparision?style=social) |
 
 ---
 
-## 🤝 Core contributions at Ultralytics
+## Core contributions at Ultralytics
 
-As a key contributor to **Ultralytics YOLO**, I designed and shipped much of the **Solutions** module — production-ready computer vision building blocks used by developers worldwide:
+As a key contributor to Ultralytics YOLO, I designed and shipped much of the Solutions module: production-ready computer vision building blocks used by developers worldwide.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Object_Counting-042AFF?style=flat-square" alt="Object Counting"/>
@@ -160,7 +160,7 @@ As a key contributor to **Ultralytics YOLO**, I designed and shipped much of the
   <img src="https://img.shields.io/badge/Analytics_%26_Dashboards-111F68?style=flat-square" alt="Analytics"/>
 </p>
 
-I also maintain **docs, example notebooks, and tutorials** across the Ultralytics ecosystem, keeping guides current from YOLOv8 through **YOLO11**.
+I also maintain docs, example notebooks, and tutorials across the Ultralytics ecosystem, keeping guides current from YOLOv8 through YOLO11.
 
 <p align="center">
   <a href="https://github.com/ultralytics/ultralytics/graphs/contributors"><img src="https://img.shields.io/badge/Top_Contributor-Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" alt="Ultralytics Contributor"/></a>
@@ -169,7 +169,7 @@ I also maintain **docs, example notebooks, and tutorials** across the Ultralytic
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <table width="100%" align="center">
   <tr>
@@ -192,15 +192,12 @@ I also maintain **docs, example notebooks, and tutorials** across the Ultralytic
 
 ---
 
-## ✍️ Featured articles & tutorials
-
-<details>
-  <summary><b>📚 Click to expand — Medium tutorials & guides</b></summary>
+## Articles and tutorials
 
 | Title | Link | Date |
 |-------|------|------|
-| YOLO11 Object Detection & Instance Segmentation | [Read on Medium](https://muhammadrizwanmunawar.medium.com/ultralytics-yolo11-object-detection-and-instance-segmentation-88ef0239a811) | ![Date](https://img.shields.io/badge/2024--10--27-yellow) |
-| TrackZone — Object Tracking in Regions using YOLO11 | [Read](https://medium.com/pixelmindx/trackzone-object-tracking-in-regions-using-ultralytics-yolo11-c0fdda4c5720) | ![Date](https://img.shields.io/badge/2024--12--22-purple) |
+| YOLO11 Object Detection and Instance Segmentation | [Read on Medium](https://muhammadrizwanmunawar.medium.com/ultralytics-yolo11-object-detection-and-instance-segmentation-88ef0239a811) | ![Date](https://img.shields.io/badge/2024--10--27-yellow) |
+| TrackZone: Object Tracking in Regions using YOLO11 | [Read](https://medium.com/pixelmindx/trackzone-object-tracking-in-regions-using-ultralytics-yolo11-c0fdda4c5720) | ![Date](https://img.shields.io/badge/2024--12--22-purple) |
 | Smart Parking Management with YOLO11 | [Read](https://muhammadrizwanmunawar.medium.com/parking-management-using-ultralytics-yolo11-fba4c6bc62bc) | ![Date](https://img.shields.io/badge/2024--11--10-orange) |
 | Workout Monitoring using YOLO11 | [Read](https://muhammadrizwanmunawar.medium.com/how-to-monitor-your-workouts-using-ultralytics-yolo11-375d8e8bb250) | ![Date](https://img.shields.io/badge/2024--11--19-magenta) |
 | Monetizing Computer Vision Hobby Projects | [Read](https://muhammadrizwanmunawar.medium.com/my-️computer-vision-hobby-projects-that-yielded-earnings-7923c9b9eead) | ![Date](https://img.shields.io/badge/2023--09--10-navy) |
@@ -208,28 +205,23 @@ I also maintain **docs, example notebooks, and tutorials** across the Ultralytic
 | Roadmap for a Computer Vision Engineer | [Read](https://medium.com/augmented-startups/roadmap-for-computer-vision-engineer-45167b94518c) | ![Date](https://img.shields.io/badge/2022--08--07-lightgrey) |
 | Train YOLOv8 on Custom Data | [Read](https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262) | ![Date](https://img.shields.io/badge/2022--09--23-dodgerblue) |
 | Speed Up the Data Labeling Process | [Read](https://muhammadrizwanmunawar.medium.com/speed-up-data-labeling-process-88e798c91353) | ![Date](https://img.shields.io/badge/2022--10--16-magenta) |
-| Becoming a Computer Vision Engineer — Ultralytics Blog | [Read](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer) | ![Date](https://img.shields.io/badge/2022--11--15-pink) |
+| Becoming a Computer Vision Engineer (Ultralytics Blog) | [Read](https://www.ultralytics.com/blog/becoming-a-computer-vision-engineer) | ![Date](https://img.shields.io/badge/2022--11--15-pink) |
 
-</details>
-
-<details>
-  <summary><b>🔬 Click to expand — Research & publications</b></summary>
+## Research and publications
 
 | Title | Venue | Link | Date |
 |-------|-------|------|------|
 | Automated Pallet Racking Inspection | Sensors (MDPI) | [Read Paper](https://www.mdpi.com/1424-8220/22/18/6927) | ![Date](https://img.shields.io/badge/2022--09--13-aqua) |
-| Diabetic Retinopathy — Exudate Detection | IEEE | [Read Paper](https://ieeexplore.ieee.org/document/9885192) | ![Date](https://img.shields.io/badge/2022--09--12-gray) |
+| Diabetic Retinopathy Exudate Detection | IEEE | [Read Paper](https://ieeexplore.ieee.org/document/9885192) | ![Date](https://img.shields.io/badge/2022--09--12-gray) |
 | Rice Leaf Defect Detection | Foods (MDPI) | [Read Paper](https://www.mdpi.com/2304-8158/11/23/3914) | ![Date](https://img.shields.io/badge/2022--12--04-green) |
 | Comparative Study of YOLO Models | CS & IT (AIRCC) | [Read Study](https://aircconline.com/csit/papers/vol12/csit121602.pdf) | ![Date](https://img.shields.io/badge/2022--09--24-gray) |
 | Explainable AI for Drug Sensitivity | IEEE | [Read Paper](https://ieeexplore.ieee.org/document/9922931) | ![Date](https://img.shields.io/badge/2022--09--23-blue) |
 
-<sub>See more on my <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">Google Scholar</a> profile.</sub>
-
-</details>
+<sub>More on my <a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ">Google Scholar</a> profile.</sub>
 
 ---
 
-## 🌐 Let's connect
+## Connect
 
 <p align="center">
   <a href="https://rizwanai.com" title="Rizwan AI"><img src="https://img.shields.io/badge/Website-rizwanai.com-DD00BA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -254,5 +246,3 @@ I also maintain **docs, example notebooks, and tutorials** across the Ultralytic
   <a href="https://github.com/RizwanMunawar" target="_blank"><img src="https://komarev.com/ghpvc/?username=RizwanMunawar&label=Profile+Views&color=dd00ba&style=flat-square" alt="Profile Views"/></a>
   <a href="https://www.linkedin.com/in/muhammadrizwanmunawar" target="_blank"><img src="https://img.shields.io/badge/Impressions-25M%2B-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Impressions"/></a>
 </div>
-
-<p align="center"><sub>⭐️ If my open-source work helps you build Vision AI, a star goes a long way — thank you!</sub></p>
