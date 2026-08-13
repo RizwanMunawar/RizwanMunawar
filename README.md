@@ -1,12 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=DD00BA&center=true&width=680&lines=Real-Time+Computer+Vision;Object+Detection+%E2%80%A2+Segmentation+%E2%80%A2+Tracking;Pose+Estimation+%E2%80%A2+Object+Counting;Vision+Language+Models+%26+Edge+AI" alt="Real-time computer vision" />
+</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEyam1jeDZnbGxyNDBicDZzOTJxYWQxZDdkZXE3M3JzMDgzdDVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="460" alt="Computer vision showcase" />
+</p>
+
 <p>I'm Muhammad Rizwan Munawar, a Computer Vision Engineer and content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, and the founder of <a href="https://rizwanai.com/">Rizwan AI</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
 
 <p>
   <a href="https://rizwanai.com/"><img alt="Rizwan AI Founder" src="https://img.shields.io/badge/-Rizwan_AI_Founder-DD00BA?style=flat-square&logoColor=white" /></a>
   <a href="https://github.com/RizwanMunawar"><img alt="Open Source Contributor" src="https://img.shields.io/badge/-Open_Source_Contributor-042AFF?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@muhammadrizwanmunawar"><img alt="Content Creator" src="https://img.shields.io/badge/-Content_Creator-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork_Freelancer-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
   <a href="https://trendshift.io/developers/7038"><img alt="Trendshift Developer" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/muhammadrizwanmunawar"><img alt="LinkedIn" src="https://img.shields.io/badge/-55K%2B_LinkedIn_·_25M%2B_Impressions-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -25,8 +31,6 @@
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai_Edge-FFC107?style=flat-square&labelColor=FFC107" />
-  <img alt="MemryX" src="https://img.shields.io/badge/-MemryX_Edge-1B5E20?style=flat-square" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -45,28 +49,28 @@
 <h3>Open-source contributions to Ultralytics</h3>
 <p>I've been an active contributor to <a href="https://github.com/ultralytics/ultralytics">ultralytics/ultralytics</a>, where I helped build much of the Solutions module, production-ready building blocks used by developers worldwide, along with docs, notebooks, and tutorials from YOLOv8 through YOLO11.</p>
 <p>
-  <img alt="Object Counting" src="https://img.shields.io/badge/-Object_Counting-042AFF?style=flat-square" />
-  <img alt="Region & Zone Counting" src="https://img.shields.io/badge/-Region_%26_Zone_Counting-042AFF?style=flat-square" />
-  <img alt="Heatmaps" src="https://img.shields.io/badge/-Heatmaps-DD00BA?style=flat-square" />
-  <img alt="Speed Estimation" src="https://img.shields.io/badge/-Speed_Estimation-DD00BA?style=flat-square" />
-  <img alt="TrackZone" src="https://img.shields.io/badge/-TrackZone-00B0FF?style=flat-square" />
-  <img alt="Workout Monitoring" src="https://img.shields.io/badge/-Workout_Monitoring-00B0FF?style=flat-square" />
-  <img alt="Parking Management" src="https://img.shields.io/badge/-Parking_Management-6E44FF?style=flat-square" />
-  <img alt="Queue Management" src="https://img.shields.io/badge/-Queue_Management-6E44FF?style=flat-square" />
+  <a href="https://docs.ultralytics.com/guides/object-counting/" target="_blank"><img alt="Object Counting" src="https://img.shields.io/badge/-Object_Counting-042AFF?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/region-counting/" target="_blank"><img alt="Region & Zone Counting" src="https://img.shields.io/badge/-Region_%26_Zone_Counting-042AFF?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/heatmaps/" target="_blank"><img alt="Heatmaps" src="https://img.shields.io/badge/-Heatmaps-DD00BA?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/speed-estimation/" target="_blank"><img alt="Speed Estimation" src="https://img.shields.io/badge/-Speed_Estimation-DD00BA?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/trackzone/" target="_blank"><img alt="TrackZone" src="https://img.shields.io/badge/-TrackZone-00B0FF?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/workouts-monitoring/" target="_blank"><img alt="Workout Monitoring" src="https://img.shields.io/badge/-Workout_Monitoring-00B0FF?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/parking-management/" target="_blank"><img alt="Parking Management" src="https://img.shields.io/badge/-Parking_Management-6E44FF?style=flat-square" /></a>
+  <a href="https://docs.ultralytics.com/guides/queue-management/" target="_blank"><img alt="Queue Management" src="https://img.shields.io/badge/-Queue_Management-6E44FF?style=flat-square" /></a>
 </p>
 <p><a href="https://platform.ultralytics.com/muhammadrizwanmunawar"><img alt="Ultralytics Platform" src="https://img.shields.io/badge/-My_Ultralytics_Platform_Portfolio-042AFF?style=flat-square&logo=ultralytics&logoColor=white" /></a></p>
 
 <h3>Selected experience</h3>
 <p>Teams and companies I've worked with or built projects for across the computer vision industry:</p>
 <p>
-  <img alt="Ultralytics" src="https://img.shields.io/badge/-Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" />
-  <img alt="Teknoir" src="https://img.shields.io/badge/-Teknoir-0A2540?style=flat-square" />
-  <img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai-FFC107?style=flat-square&labelColor=FFC107" />
-  <img alt="MemryX" src="https://img.shields.io/badge/-MemryX-1B5E20?style=flat-square" />
-  <img alt="Augmented Startups" src="https://img.shields.io/badge/-Augmented_Startups-FF6F00?style=flat-square" />
+  <a href="https://www.ultralytics.com" target="_blank"><img alt="Ultralytics" src="https://img.shields.io/badge/-Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" /></a>
+  <a href="https://teknoir.ai" target="_blank"><img alt="Teknoir" src="https://img.shields.io/badge/-Teknoir-0A2540?style=flat-square" /></a>
+  <a href="https://sima.ai" target="_blank"><img alt="SiMa.ai" src="https://img.shields.io/badge/-SiMa.ai-FFC107?style=flat-square&labelColor=FFC107" /></a>
+  <a href="https://memryx.com" target="_blank"><img alt="MemryX" src="https://img.shields.io/badge/-MemryX-1B5E20?style=flat-square" /></a>
+  <a href="https://www.augmentedstartups.com" target="_blank"><img alt="Augmented Startups" src="https://img.shields.io/badge/-Augmented_Startups-FF6F00?style=flat-square" /></a>
   <img alt="Conversence" src="https://img.shields.io/badge/-Conversence-6E44FF?style=flat-square" />
   <img alt="Web Solutions Plus" src="https://img.shields.io/badge/-Web_Solutions_Plus-2496ED?style=flat-square" />
-  <img alt="Upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <a href="https://www.upwork.com" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" /></a>
 </p>
 
 <h3>Project demos</h3>
