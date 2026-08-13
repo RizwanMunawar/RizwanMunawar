@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=DD00BA&center=true&width=680&lines=Real-Time+Computer+Vision;Object+Detection+%E2%80%A2+Segmentation+%E2%80%A2+Tracking;Pose+Estimation+%E2%80%A2+Object+Counting;Vision+Language+Models+%26+Edge+AI" alt="Real-time computer vision" />
-</p>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEyam1jeDZnbGxyNDBicDZzOTJxYWQxZDdkZXE3M3JzMDgzdDVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="460" alt="Computer vision showcase" />
+  <img src="./assets/cv-banner.svg" width="100%" alt="Real-time computer vision — object detection, segmentation, tracking, pose estimation" />
 </p>
 
 <p>I'm Muhammad Rizwan Munawar, a Computer Vision Engineer and content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, and the founder of <a href="https://rizwanai.com/">Rizwan AI</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
