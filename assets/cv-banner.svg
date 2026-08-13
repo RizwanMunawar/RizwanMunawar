@@ -47,7 +47,7 @@
 
   <!-- cycling task label -->
   <g font-family="'Fira Code','Courier New',monospace" font-size="17" font-weight="700" fill="#12245a" text-anchor="middle">
-    <text x="430" y="86" opacity="0">Object Detection<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.01;0.19;0.2;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="430" y="86" opacity="1">Object Detection<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.19;0.2;0.99;1" dur="15s" repeatCount="indefinite"/></text>
     <text x="430" y="86" opacity="0">Instance Segmentation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.21;0.39;0.4;1" dur="15s" repeatCount="indefinite"/></text>
     <text x="430" y="86" opacity="0">Object Tracking<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.41;0.59;0.6;1" dur="15s" repeatCount="indefinite"/></text>
     <text x="430" y="86" opacity="0">Pose Estimation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.61;0.79;0.8;1" dur="15s" repeatCount="indefinite"/></text>
@@ -55,8 +55,8 @@
   </g>
 
   <!-- ===== STAGE 1 : DETECTION -> bounding boxes ===== -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.01;0.19;0.2;1" dur="15s" repeatCount="indefinite"/>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.19;0.2;0.99;1" dur="15s" repeatCount="indefinite"/>
     <rect x="300" y="116" width="120" height="120" rx="4" fill="none" stroke="#DD00BA" stroke-width="2.5"/>
     <rect x="300" y="100" width="98" height="16" rx="3" fill="#DD00BA"/>
     <text x="306" y="112" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">person 0.98</text>
