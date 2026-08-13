@@ -1,21 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" fill="none" role="img" aria-label="Real-time computer vision banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" fill="none" role="img" aria-label="Real-time computer vision banner: detection, segmentation, tracking, pose and depth">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a0f1f"/>
-      <stop offset="1" stop-color="#121c38"/>
+      <stop offset="0" stop-color="#eef3fc"/>
+      <stop offset="1" stop-color="#ffffff"/>
     </linearGradient>
     <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#DD00BA"/>
       <stop offset="0.55" stop-color="#7C4DFF"/>
-      <stop offset="1" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#1E6BFF"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#00E0FF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00E0FF" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#00E0FF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#1E6BFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1E6BFF" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#1E6BFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="depthg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fde725"/>
+      <stop offset="0.35" stop-color="#35b779"/>
+      <stop offset="0.7" stop-color="#31688e"/>
+      <stop offset="1" stop-color="#440154"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
@@ -23,7 +29,7 @@
   <rect x="0" y="0" width="860" height="260" rx="18" fill="url(#bg)"/>
 
   <!-- faint tech grid -->
-  <g stroke="#3350a0" stroke-width="1" opacity="0.10">
+  <g stroke="#cdd8f0" stroke-width="1" opacity="0.6">
     <line x1="43" y1="0" x2="43" y2="260"/><line x1="129" y1="0" x2="129" y2="260"/>
     <line x1="215" y1="0" x2="215" y2="260"/><line x1="301" y1="0" x2="301" y2="260"/>
     <line x1="387" y1="0" x2="387" y2="260"/><line x1="473" y1="0" x2="473" y2="260"/>
@@ -36,54 +42,105 @@
   <!-- title -->
   <text x="430" y="52" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="30" font-weight="700" fill="url(#txt)">
     Muhammad Rizwan Munawar
-    <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
   </text>
 
-  <!-- cycling role text -->
-  <g font-family="'Fira Code','Courier New',monospace" font-size="17" font-weight="600" fill="#79E7FF" text-anchor="middle">
-    <text x="430" y="86" opacity="0">Object Detection<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.01;0.19;0.2;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="430" y="86" opacity="0">Instance Segmentation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.21;0.39;0.4;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="430" y="86" opacity="0">Object Tracking<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.41;0.59;0.6;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="430" y="86" opacity="0">Pose Estimation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.61;0.79;0.8;1" dur="12s" repeatCount="indefinite"/></text>
-    <text x="430" y="86" opacity="0">Edge AI &amp; Vision Language Models<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.81;0.99;1;1" dur="12s" repeatCount="indefinite"/></text>
+  <!-- cycling task label -->
+  <g font-family="'Fira Code','Courier New',monospace" font-size="17" font-weight="700" fill="#12245a" text-anchor="middle">
+    <text x="430" y="86" opacity="0">Object Detection<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.01;0.19;0.2;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="430" y="86" opacity="0">Instance Segmentation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.21;0.39;0.4;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="430" y="86" opacity="0">Object Tracking<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.41;0.59;0.6;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="430" y="86" opacity="0">Pose Estimation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.61;0.79;0.8;1" dur="15s" repeatCount="indefinite"/></text>
+    <text x="430" y="86" opacity="0">Depth Estimation<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.81;0.99;1;1" dur="15s" repeatCount="indefinite"/></text>
   </g>
 
-  <!-- detection boxes -->
-  <!-- box 1 : person -->
-  <g>
-    <rect x="86" y="140" width="150" height="86" rx="4" fill="none" stroke="#DD00BA" stroke-width="2.5" stroke-dasharray="472" stroke-dashoffset="472">
-      <animate attributeName="stroke-dashoffset" values="472;0;0;472" keyTimes="0;0.35;0.85;1" dur="4s" repeatCount="indefinite"/>
-    </rect>
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.35;0.85;1" dur="4s" repeatCount="indefinite"/>
-      <rect x="86" y="124" width="92" height="16" rx="3" fill="#DD00BA"/>
-      <text x="92" y="136" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">person 0.98</text>
-    </g>
-  </g>
-  <!-- box 2 : car -->
-  <g>
-    <rect x="372" y="128" width="126" height="104" rx="4" fill="none" stroke="#3B82F6" stroke-width="2.5" stroke-dasharray="460" stroke-dashoffset="460">
-      <animate attributeName="stroke-dashoffset" values="460;0;0;460" keyTimes="0;0.35;0.85;1" dur="4s" begin="0.5s" repeatCount="indefinite"/>
-    </rect>
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.35;0.85;1" dur="4s" begin="0.5s" repeatCount="indefinite"/>
-      <rect x="372" y="112" width="62" height="16" rx="3" fill="#3B82F6"/>
-      <text x="378" y="124" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">car 0.95</text>
-    </g>
-  </g>
-  <!-- box 3 : bicycle -->
-  <g>
-    <rect x="648" y="150" width="150" height="78" rx="4" fill="none" stroke="#00E0FF" stroke-width="2.5" stroke-dasharray="456" stroke-dashoffset="456">
-      <animate attributeName="stroke-dashoffset" values="456;0;0;456" keyTimes="0;0.35;0.85;1" dur="4s" begin="1s" repeatCount="indefinite"/>
-    </rect>
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.35;0.85;1" dur="4s" begin="1s" repeatCount="indefinite"/>
-      <rect x="648" y="134" width="86" height="16" rx="3" fill="#00E0FF"/>
-      <text x="654" y="146" font-family="'Fira Code',monospace" font-size="11" fill="#062033">bicycle 0.92</text>
-    </g>
+  <!-- ===== STAGE 1 : DETECTION -> bounding boxes ===== -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.01;0.19;0.2;1" dur="15s" repeatCount="indefinite"/>
+    <rect x="300" y="116" width="120" height="120" rx="4" fill="none" stroke="#DD00BA" stroke-width="2.5"/>
+    <rect x="300" y="100" width="98" height="16" rx="3" fill="#DD00BA"/>
+    <text x="306" y="112" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">person 0.98</text>
+    <rect x="520" y="150" width="210" height="82" rx="4" fill="none" stroke="#1E6BFF" stroke-width="2.5"/>
+    <rect x="520" y="134" width="66" height="16" rx="3" fill="#1E6BFF"/>
+    <text x="526" y="146" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">car 0.96</text>
   </g>
 
-  <!-- sweeping scan line -->
+  <!-- ===== STAGE 2 : SEGMENTATION -> masks ===== -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.21;0.39;0.4;1" dur="15s" repeatCount="indefinite"/>
+    <!-- person mask -->
+    <circle cx="360" cy="140" r="18" fill="#DD00BA" fill-opacity="0.5" stroke="#DD00BA" stroke-width="2"/>
+    <path d="M328 236 Q328 168 360 166 Q392 168 392 236 Z" fill="#DD00BA" fill-opacity="0.45" stroke="#DD00BA" stroke-width="2"/>
+    <rect x="326" y="100" width="94" height="16" rx="3" fill="#DD00BA"/>
+    <text x="332" y="112" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">mask person</text>
+    <!-- car mask -->
+    <path d="M524 232 Q520 196 560 192 L600 168 Q650 162 690 190 Q726 194 726 232 Z" fill="#1E6BFF" fill-opacity="0.42" stroke="#1E6BFF" stroke-width="2"/>
+    <circle cx="576" cy="232" r="12" fill="#1E6BFF" fill-opacity="0.7"/>
+    <circle cx="686" cy="232" r="12" fill="#1E6BFF" fill-opacity="0.7"/>
+    <rect x="524" y="146" width="70" height="16" rx="3" fill="#1E6BFF"/>
+    <text x="530" y="158" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">mask car</text>
+  </g>
+
+  <!-- ===== STAGE 3 : TRACKING -> box + ID + trail ===== -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.41;0.59;0.6;1" dur="15s" repeatCount="indefinite"/>
+    <!-- ghost trail -->
+    <rect x="196" y="120" width="112" height="116" rx="4" fill="none" stroke="#7C4DFF" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.3"/>
+    <rect x="262" y="118" width="114" height="118" rx="4" fill="none" stroke="#7C4DFF" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.55"/>
+    <!-- motion path -->
+    <path d="M252 178 L318 176 L392 174" fill="none" stroke="#7C4DFF" stroke-width="1.5" stroke-dasharray="2 5"/>
+    <!-- current box -->
+    <rect x="336" y="116" width="118" height="120" rx="4" fill="none" stroke="#7C4DFF" stroke-width="2.5"/>
+    <rect x="336" y="100" width="70" height="16" rx="3" fill="#7C4DFF"/>
+    <text x="342" y="112" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">ID 3 · car</text>
+    <!-- second tracked object -->
+    <rect x="560" y="150" width="180" height="82" rx="4" fill="none" stroke="#00B894" stroke-width="2.5"/>
+    <rect x="560" y="134" width="52" height="16" rx="3" fill="#00B894"/>
+    <text x="566" y="146" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">ID 7</text>
+  </g>
+
+  <!-- ===== STAGE 4 : POSE -> skeleton ===== -->
+  <g opacity="0" stroke-linecap="round">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.61;0.79;0.8;1" dur="15s" repeatCount="indefinite"/>
+    <g stroke="#1E6BFF" stroke-width="3" fill="none">
+      <path d="M410 130 L410 150"/>
+      <path d="M384 154 L436 154"/>
+      <path d="M384 154 L372 188 L368 214"/>
+      <path d="M436 154 L448 188 L452 214"/>
+      <path d="M398 196 L422 196"/>
+      <path d="M398 196 L392 230"/>
+      <path d="M422 196 L428 230"/>
+      <path d="M410 150 L410 196"/>
+    </g>
+    <g fill="#DD00BA">
+      <circle cx="410" cy="126" r="8" fill="none" stroke="#DD00BA" stroke-width="3"/>
+      <circle cx="384" cy="154" r="3.5"/><circle cx="436" cy="154" r="3.5"/>
+      <circle cx="372" cy="188" r="3.5"/><circle cx="448" cy="188" r="3.5"/>
+      <circle cx="368" cy="214" r="3.5"/><circle cx="452" cy="214" r="3.5"/>
+      <circle cx="398" cy="196" r="3.5"/><circle cx="422" cy="196" r="3.5"/>
+      <circle cx="392" cy="230" r="3.5"/><circle cx="428" cy="230" r="3.5"/>
+    </g>
+    <rect x="368" y="100" width="92" height="16" rx="3" fill="#1E6BFF"/>
+    <text x="374" y="112" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">pose · 17 kpts</text>
+  </g>
+
+  <!-- ===== STAGE 5 : DEPTH -> depth colormap ===== -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.81;0.99;1;1" dur="15s" repeatCount="indefinite"/>
+    <rect x="150" y="108" width="560" height="128" rx="10" fill="url(#depthg)" opacity="0.9"/>
+    <!-- near object (bright) -->
+    <path d="M250 236 Q250 170 288 168 Q326 170 326 236 Z" fill="#fdf6b2" opacity="0.85"/>
+    <!-- far object (dark) -->
+    <rect x="520" y="176" width="150" height="56" rx="12" fill="#3b1a5a" opacity="0.85"/>
+    <!-- colorbar -->
+    <rect x="150" y="108" width="560" height="128" rx="10" fill="none" stroke="#12245a" stroke-width="1.5" opacity="0.4"/>
+    <rect x="182" y="120" width="88" height="16" rx="3" fill="#12245a"/>
+    <text x="188" y="132" font-family="'Fira Code',monospace" font-size="11" fill="#ffffff">depth map</text>
+    <text x="168" y="228" font-family="'Fira Code',monospace" font-size="11" font-weight="700" fill="#12245a">near</text>
+    <text x="662" y="228" font-family="'Fira Code',monospace" font-size="11" font-weight="700" fill="#ffffff">far</text>
+  </g>
+
+  <!-- sweeping scan line (always on) -->
   <rect x="0" y="104" width="2.5" height="132" fill="url(#scan)" filter="url(#glow)">
     <animateTransform attributeName="transform" type="translate" values="60 0; 800 0; 60 0" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
   </rect>
