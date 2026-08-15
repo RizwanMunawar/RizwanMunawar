@@ -4,10 +4,10 @@
   <img src="./assets/cv-banner.svg" width="100%" alt="Real-time computer vision — object detection, segmentation, tracking, pose estimation" />
 </p>
 
-<p>I'm Muhammad Rizwan Munawar, a Computer Vision Engineer and content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan, and the founder of <a href="https://rizwanai.com/">Rizwan AI</a>. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
+<p>I'm Muhammad Rizwan Munawar, Lead Computer Vision Engineer at <a href="https://rizwanai.com/">Rizwan AI</a> and a content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
 
 <p>
-  <a href="https://rizwanai.com/"><img alt="Rizwan AI Founder" src="https://img.shields.io/badge/-Rizwan_AI_Founder-DD00BA?style=flat-square&logoColor=white" /></a>
+  <a href="https://rizwanai.com/"><img alt="Lead CV Engineer at Rizwan AI" src="https://img.shields.io/badge/-Lead_CV_Engineer_%40_Rizwan_AI-DD00BA?style=flat-square&logoColor=white" /></a>
   <a href="https://github.com/RizwanMunawar"><img alt="Open Source Contributor" src="https://img.shields.io/badge/-Open_Source_Contributor-042AFF?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@muhammadrizwanmunawar"><img alt="Content Creator" src="https://img.shields.io/badge/-Content_Creator-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://trendshift.io/developers/7038"><img alt="Trendshift Developer" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
@@ -73,26 +73,24 @@
 <h3>Project demos</h3>
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" controls muted loop playsinline width="400" height="240"></video><br/>
-      🎯 &nbsp;<a href="https://github.com/RizwanMunawar/trajectory-forcast">Trajectory Forecasting</a><br/>
-      <sub>Predict where tracked objects move next</sub>
+    <td width="25%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
+      <a href="https://github.com/RizwanMunawar/trajectory-forcast">Trajectory Forecasting</a><br/>
+      <sub>Predict where objects move next</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" controls muted loop playsinline width="400" height="240"></video><br/>
-      🧩 &nbsp;<a href="https://github.com/RizwanMunawar/sam3-inference">SAM 3 Inference</a><br/>
+    <td width="25%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
+      <a href="https://github.com/RizwanMunawar/sam3-inference">SAM 3 Inference</a><br/>
       <sub>Segment anything with Meta SAM 3</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" controls muted loop playsinline width="400" height="240"></video><br/>
-      🕶️ &nbsp;<a href="https://github.com/RizwanMunawar/blurit">BlurIt — Image Redaction</a><br/>
-      <sub>Privacy-first blurring in the browser</sub>
+    <td width="25%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
+      <a href="https://github.com/RizwanMunawar/blurit">BlurIt — Redaction</a><br/>
+      <sub>Privacy-first blurring in-browser</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" controls muted loop playsinline width="400" height="240"></video><br/>
-      🧹 &nbsp;<a href="https://github.com/RizwanMunawar/cvflow">CVFlow — Dataset Linter</a><br/>
+    <td width="25%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
+      <a href="https://github.com/RizwanMunawar/cvflow">CVFlow — Dataset Linter</a><br/>
       <sub>Audit YOLO / COCO datasets</sub>
     </td>
   </tr>
