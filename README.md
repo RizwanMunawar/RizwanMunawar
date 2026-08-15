@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
-  <img src="./assets/cv-banner.svg" width="100%" alt="Real-time computer vision — object detection, segmentation, tracking, pose estimation" />
+  <img src="./assets/cv-banner.svg" width="100%" alt="Real-time computer vision, object detection, segmentation, tracking, pose estimation" />
 </p>
 
 <p>I'm Muhammad Rizwan Munawar, Lead Computer Vision Engineer at <a href="https://rizwanai.com/">Rizwan AI</a> and a content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
@@ -73,26 +73,10 @@
 <h3>Project demos</h3>
 <table>
   <tr>
-    <td width="25%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
-      <a href="https://github.com/RizwanMunawar/trajectory-forcast">Trajectory Forecasting</a><br/>
-      <sub>Predict where objects move next</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
-      <a href="https://github.com/RizwanMunawar/sam3-inference">SAM 3 Inference</a><br/>
-      <sub>Segment anything with Meta SAM 3</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
-      <a href="https://github.com/RizwanMunawar/blurit">BlurIt — Redaction</a><br/>
-      <sub>Privacy-first blurring in-browser</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" autoplay muted loop playsinline controls width="230" height="150"></video><br/>
-      <a href="https://github.com/RizwanMunawar/cvflow">CVFlow — Dataset Linter</a><br/>
-      <sub>Audit YOLO / COCO datasets</sub>
-    </td>
+    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" autoplay muted loop playsinline controls width="230" height="150"></video></td>
+    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" autoplay muted loop playsinline controls width="230" height="150"></video></td>
+    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" autoplay muted loop playsinline controls width="230" height="150"></video></td>
+    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" autoplay muted loop playsinline controls width="230" height="150"></video></td>
   </tr>
 </table>
 
@@ -109,42 +93,42 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/cvflow"><b>cvflow</b></a> — CLI linter that audits YOLO/COCO datasets for broken images, bad labels, duplicates, and split leakage</td>
+      <td><a href="https://github.com/RizwanMunawar/cvflow"><b>cvflow</b></a>: CLI linter that audits YOLO/COCO datasets for broken images, bad labels, duplicates, and split leakage</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/cvflow?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/cvflow?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/cvflow?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/cvflow?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/sima-projects"><b>sima-projects</b></a> — Reference YOLO app + setup guide for the SiMa.ai Modalix edge DevKit</td>
+      <td><a href="https://github.com/RizwanMunawar/sima-projects"><b>sima-projects</b></a>: Reference YOLO app + setup guide for the SiMa.ai Modalix edge DevKit</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/sima-projects?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/blurit"><b>blurit</b></a> — Privacy-first, in-browser image redaction; click a face, download a clean PNG</td>
+      <td><a href="https://github.com/RizwanMunawar/blurit"><b>blurit</b></a>: Privacy-first, in-browser image redaction; click a face, download a clean PNG</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/blurit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/blurit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/blurit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/blurit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/trajectory-forcast"><b>trajectory-forcast</b></a> — Kalman-filtered trajectory forecasting for Ultralytics YOLO</td>
+      <td><a href="https://github.com/RizwanMunawar/trajectory-forcast"><b>trajectory-forcast</b></a>: Kalman-filtered trajectory forecasting for Ultralytics YOLO</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/trajectory-forcast?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/trajectory-forcast?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/trajectory-forcast?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/trajectory-forcast?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/streamgrid"><b>streamgrid</b></a> — Multi-stream video inference with Ultralytics YOLO in a grid layout</td>
+      <td><a href="https://github.com/RizwanMunawar/streamgrid"><b>streamgrid</b></a>: Multi-stream video inference with Ultralytics YOLO in a grid layout</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/streamgrid?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/streamgrid?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/streamgrid?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/streamgrid?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/sam3-inference"><b>sam3-inference</b></a> — Inference toolkit for Meta Segment Anything Model 3 (SAM 3)</td>
+      <td><a href="https://github.com/RizwanMunawar/sam3-inference"><b>sam3-inference</b></a>: Inference toolkit for Meta Segment Anything Model 3 (SAM 3)</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/sam3-inference?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/sam3-inference?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/sam3-inference?style=flat-square&labelColor=343b41"/></td>
@@ -166,42 +150,42 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov7-object-tracking"><b>yolov7-object-tracking</b></a> — Real-time YOLOv7 object tracking with SORT</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov7-object-tracking"><b>yolov7-object-tracking</b></a>: Real-time YOLOv7 object tracking with SORT</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov7-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov7-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/yolov7-object-tracking?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov7-pose-estimation"><b>yolov7-pose-estimation</b></a> — Human pose and keypoint estimation with YOLOv7</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov7-pose-estimation"><b>yolov7-pose-estimation</b></a>: Human pose and keypoint estimation with YOLOv7</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov7-pose-estimation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov7-pose-estimation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/yolov7-pose-estimation?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov8-object-tracking"><b>yolov8-object-tracking</b></a> — YOLOv8 object tracking with PyTorch, OpenCV, and Ultralytics</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov8-object-tracking"><b>yolov8-object-tracking</b></a>: YOLOv8 object tracking with PyTorch, OpenCV, and Ultralytics</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov8-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov8-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/yolov8-object-tracking?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov7-segmentation"><b>yolov7-segmentation</b></a> — Instance segmentation with YOLOv7</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov7-segmentation"><b>yolov7-segmentation</b></a>: Instance segmentation with YOLOv7</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov7-segmentation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov7-segmentation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/yolov7-segmentation?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov5-object-tracking"><b>yolov5-object-tracking</b></a> — YOLOv5 detection, tracking, blurring, and a Streamlit dashboard</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov5-object-tracking"><b>yolov5-object-tracking</b></a>: YOLOv5 detection, tracking, blurring, and a Streamlit dashboard</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov5-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov5-object-tracking?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RizwanMunawar/yolov5-object-tracking?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RizwanMunawar/yolov7-object-blurring"><b>yolov7-object-blurring</b></a> — Privacy-preserving object blurring with YOLOv7</td>
+      <td><a href="https://github.com/RizwanMunawar/yolov7-object-blurring"><b>yolov7-object-blurring</b></a>: Privacy-preserving object blurring with YOLOv7</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-blurring?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RizwanMunawar/yolov7-object-blurring?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RizwanMunawar/yolov7-object-blurring?style=flat-square&labelColor=343b41"/></td>
@@ -223,11 +207,11 @@
 
 <h3>Research and publications</h3>
 <ul>
-  <li><a href="https://www.mdpi.com/1424-8220/22/18/6927"><b>Automated Pallet Racking Inspection</b></a> — Sensors (MDPI), 2022</li>
-  <li><a href="https://ieeexplore.ieee.org/document/9885192"><b>Diabetic Retinopathy Exudate Detection</b></a> — IEEE, 2022</li>
-  <li><a href="https://www.mdpi.com/2304-8158/11/23/3914"><b>Rice Leaf Defect Detection</b></a> — Foods (MDPI), 2022</li>
-  <li><a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf"><b>Comparative Study of YOLO Models</b></a> — CS &amp; IT (AIRCC), 2022</li>
-  <li><a href="https://ieeexplore.ieee.org/document/9922931"><b>Explainable AI for Drug Sensitivity</b></a> — IEEE, 2022</li>
+  <li><a href="https://www.mdpi.com/1424-8220/22/18/6927"><b>Automated Pallet Racking Inspection</b></a>, Sensors (MDPI), 2022</li>
+  <li><a href="https://ieeexplore.ieee.org/document/9885192"><b>Diabetic Retinopathy Exudate Detection</b></a>, IEEE, 2022</li>
+  <li><a href="https://www.mdpi.com/2304-8158/11/23/3914"><b>Rice Leaf Defect Detection</b></a>, Foods (MDPI), 2022</li>
+  <li><a href="https://aircconline.com/csit/papers/vol12/csit121602.pdf"><b>Comparative Study of YOLO Models</b></a>, CS &amp; IT (AIRCC), 2022</li>
+  <li><a href="https://ieeexplore.ieee.org/document/9922931"><b>Explainable AI for Drug Sensitivity</b></a>, IEEE, 2022</li>
   <li><a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"><b>More on Google Scholar</b></a></li>
 </ul>
 
