@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Muhammad Rizwan Munawar, Lead Computer Vision Engineer at <a href="https://rizwanai.com/">Rizwan AI</a> and a content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
+<p>I'm Muhammad Rizwan Munawar, lead computer vision engineer at <a href="https://rizwanai.com/">Rizwan AI</a> and a content creator working with Ultralytics. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
 
 <p>
-  <a href="https://rizwanai.com/"><img alt="Lead CV Engineer at Rizwan AI" src="https://img.shields.io/badge/-Lead_CV_Engineer_%40_Rizwan_AI-DD00BA?style=flat-square&logoColor=white" /></a>
+  <a href="https://rizwanai.com/"><img alt="Lead CV Engineer at Rizwan AI" src="https://img.shields.io/badge/-Rizwan_AI-DD00BA?style=flat-square&logoColor=white" /></a>
   <a href="https://github.com/RizwanMunawar"><img alt="Open Source Contributor" src="https://img.shields.io/badge/-Open_Source_Contributor-042AFF?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@muhammadrizwanmunawar"><img alt="Content Creator" src="https://img.shields.io/badge/-Content_Creator-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://trendshift.io/developers/7038"><img alt="Trendshift Developer" src="https://img.shields.io/badge/-Trendshift_Developer-111F68?style=flat-square" /></a>
