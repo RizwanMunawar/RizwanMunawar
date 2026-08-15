@@ -232,13 +232,32 @@
 </ul>
 
 <h3>GitHub activity</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true&hide_border=true&title_color=dd00ba&icon_color=042aff&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=RizwanMunawar&hide_border=true&ring=dd00ba&fire=dd00ba&currStreakLabel=042aff&sideNums=111f68&sideLabels=111f68&dates=475569" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanMunawar&layout=compact&hide_border=true&title_color=dd00ba&langs_count=8" alt="Top languages" />
-</p>
+
+<a href="https://trendshift.io/developers/7038?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-7038" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/7038" alt="RizwanMunawar | Trendshift" width="250" height="55"/></a>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=RizwanMunawar&theme=transparent&hide_border=true"
+    alt="GitHub Streak by Muhammad Rizwan Munawar"
+  />
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=RizwanMunawar&rank_icon=percentile&custom_title=Muhammad%20Rizwan%20Munawar&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=RizwanMunawar&layout=donut-vertical&langs_count=10"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h3>Where to find me</h3>
 
