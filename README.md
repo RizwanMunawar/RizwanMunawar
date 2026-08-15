@@ -231,6 +231,15 @@
   <li><a href="https://scholar.google.com/citations?user=r3hkNdoAAAAJ"><b>More on Google Scholar</b></a></li>
 </ul>
 
+<h3>GitHub activity</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizwanMunawar&show_icons=true&hide_border=true&title_color=dd00ba&icon_color=042aff&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=RizwanMunawar&hide_border=true&ring=dd00ba&fire=dd00ba&currStreakLabel=042aff&sideNums=111f68&sideLabels=111f68&dates=475569" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanMunawar&layout=compact&hide_border=true&title_color=dd00ba&langs_count=8" alt="Top languages" />
+</p>
+
 <h3>Where to find me</h3>
 
 <p align="center">
