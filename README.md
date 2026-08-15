@@ -1,9 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center">
-  <img src="./assets/cv-banner.svg" width="100%" alt="Real-time computer vision, object detection, segmentation, tracking, pose estimation" />
-</p>
-
 <p>I'm Muhammad Rizwan Munawar, Lead Computer Vision Engineer at <a href="https://rizwanai.com/">Rizwan AI</a> and a content creator from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/> Pakistan. I build real-time systems for object detection, segmentation, tracking, and pose estimation, and I share open-source tools, tutorials, and research with a large developer community.</p>
 
 <p>
