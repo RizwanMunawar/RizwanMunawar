@@ -71,14 +71,34 @@
 </p>
 
 <h3>Project demos</h3>
-<table>
-  <tr>
-    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" autoplay muted loop playsinline controls width="230" height="150"></video></td>
-    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" autoplay muted loop playsinline controls width="230" height="150"></video></td>
-    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" autoplay muted loop playsinline controls width="230" height="150"></video></td>
-    <td width="25%" align="center"><video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" autoplay muted loop playsinline controls width="230" height="150"></video></td>
-  </tr>
-</table>
+
+<details>
+<summary><b>Trajectory Forecasting</b></summary>
+<br/>
+<video src="https://github.com/user-attachments/assets/9a1267c2-4ba4-49f6-9802-e80fed5e682f" autoplay muted loop playsinline controls width="480"></video>
+<p>Predicts where tracked objects move next using Kalman-filtered forecasting on Ultralytics YOLO. <a href="https://github.com/RizwanMunawar/trajectory-forcast">View repository</a></p>
+</details>
+
+<details>
+<summary><b>SAM 3 Inference</b></summary>
+<br/>
+<video src="https://github.com/user-attachments/assets/47fa9fa6-487e-4965-b628-ba9168c7bbdd" autoplay muted loop playsinline controls width="480"></video>
+<p>Promptable detection, segmentation, and auto-annotation with Meta Segment Anything Model 3. <a href="https://github.com/RizwanMunawar/sam3-inference">View repository</a></p>
+</details>
+
+<details>
+<summary><b>BlurIt</b></summary>
+<br/>
+<video src="https://github.com/user-attachments/assets/c5ff665c-b980-41ef-92ca-2b1aa5576c7a" autoplay muted loop playsinline controls width="480"></video>
+<p>Privacy-first image redaction in the browser. Click a face, download a clean PNG. <a href="https://github.com/RizwanMunawar/blurit">View repository</a></p>
+</details>
+
+<details>
+<summary><b>CVFlow</b></summary>
+<br/>
+<video src="https://github.com/user-attachments/assets/8bd483fe-c18a-4cfb-b209-8ba409327506" autoplay muted loop playsinline controls width="480"></video>
+<p>CLI linter that audits YOLO and COCO datasets for broken images, bad labels, duplicates, and split leakage. <a href="https://github.com/RizwanMunawar/cvflow">View repository</a></p>
+</details>
 
 <h3>Latest projects</h3>
 <table>
